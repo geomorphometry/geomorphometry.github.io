@@ -3,7 +3,6 @@ layout: post
 title: "Continental Europe Digital Terrain Model at 30 m resolution based on multisource data"
 date: "2021-08-12"
 tags: [story,publication,dataset]
-hide_hero: true
 published: true
 image: false
 ---

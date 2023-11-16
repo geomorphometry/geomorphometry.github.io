@@ -3,7 +3,6 @@ layout: post
 title: "Geomorphometry Society meeting / E-democracy 2013"
 date: "2013-10-20"
 tags: [story,event,Nanjing,China,e-democracy]
-hide_hero: true
 published: true
 image: false
 ---

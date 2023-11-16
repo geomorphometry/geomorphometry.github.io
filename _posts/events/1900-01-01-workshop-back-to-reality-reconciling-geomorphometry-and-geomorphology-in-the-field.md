@@ -4,7 +4,6 @@ title: "Workshop: Back to reality - Reconciling geomorphometry and geomorphology
 date: "2009-08-31"
 feature-img: "/uploads/img/unsplash/travel.jpeg"
 tags: [story,event,Zurich,Switzerland,workshop]
-hide_hero: true
 published: true
 image: false
 ---

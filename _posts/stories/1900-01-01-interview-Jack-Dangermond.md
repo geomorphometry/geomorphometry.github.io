@@ -2,7 +2,6 @@
 title: "Interview with Jack Dangermond, the ESRI president"
 date: "2010-10-15"
 tags: story
-hide_hero: true
 published: true
 image: false
 ---

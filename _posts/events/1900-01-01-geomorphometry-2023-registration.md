@@ -3,7 +3,6 @@ layout: post
 title: "Geomorphometry 2023 - Registration"
 date: "2023-02-18"
 tags: [story,event,Iasi,Romania]
-hide_hero: true
 published: true
 image: false
 ---

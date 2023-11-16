@@ -3,7 +3,6 @@ layout: post
 title: "Nominations for Geomorphometry 2015 conference"
 date: "2013-12-15"
 tags: [story,event,nomination]
-hide_hero: true
 published: true
 image: false
 ---

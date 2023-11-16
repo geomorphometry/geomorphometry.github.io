@@ -3,7 +3,6 @@ layout: post
 title: "Geomorphometry 2023 - Programme"
 date: "2023-05-05"
 tags: [story,event,Iasi,Romania]
-hide_hero: true
 published: true
 image: false
 ---

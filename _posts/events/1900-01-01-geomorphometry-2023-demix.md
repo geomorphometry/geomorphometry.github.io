@@ -3,7 +3,6 @@ layout: post
 title: "Geomorphometry 2023 - DEMIX Workshop"
 date: "2023-05-10"
 tags: [story,event,Iasi,Romania]
-hide_hero: true
 published: true
 image: false
 ---

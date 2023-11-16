@@ -3,7 +3,6 @@ layout: page
 title: Geomorphometry 2015 - Announcement
 date: "2014-11-15"
 tags: [story,event,poznam,Poland]
-hide_hero: true
 published: true
 image: false
 ---

@@ -3,7 +3,6 @@ layout: post
 title: "Geomorphometry 2021 - Programme"
 date: "2021-09-05"
 tags: [story,event,Perugia,Italy]
-hide_hero: true
 published: true
 image: false
 ---

@@ -4,7 +4,6 @@ title: "Copernicus Digital Elevation Model (DEM) as Open Data on Amazon AWS and 
 date: "2021-08-12"
 feature-img: "/uploads/img/unsplash/travel.jpeg"
 tags: [story,copernicus,dataset]
-hide_hero: true
 published: true
 image: false
 ---

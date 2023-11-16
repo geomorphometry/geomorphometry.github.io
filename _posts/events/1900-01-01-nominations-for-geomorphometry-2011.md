@@ -3,7 +3,6 @@ layout: post
 title: "Nominations for Geomorphometry 2011"
 date: "2009-08-30"
 tags: [story,event,nominations]
-hide_hero: true
 published: true
 image: false
 ---

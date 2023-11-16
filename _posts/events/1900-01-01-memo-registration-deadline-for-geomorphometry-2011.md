@@ -3,7 +3,6 @@ layout: post
 title: "MEMO: Registration deadline for Geomorphometry 2011"
 date: "2011-02-01"
 tags: [story,event,Redlands,California,USA]
-hide_hero: true
 published: true
 image: false
 ---

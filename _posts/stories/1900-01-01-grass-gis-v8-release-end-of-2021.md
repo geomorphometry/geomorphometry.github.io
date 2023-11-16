@@ -3,7 +3,6 @@ layout: post
 title: "GRASS GIS v8 release end of 2021"
 date: "2021-10-30"
 tags: [story,software,foss,grass]
-hide_hero: true
 published: true
 image: false
 ---

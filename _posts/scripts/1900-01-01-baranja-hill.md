@@ -3,7 +3,6 @@ layout: post
 title: "Baranja hill"
 date: "2009-08-17"
 tags: [dataset, script]
-hide_hero: true
 published: true
 image: false
 author: Tom Hengl

@@ -3,7 +3,6 @@ layout: post
 title: "TopoToolbox - a set of Matlab functions for topographic analysis"
 date: "2009-12-05"
 tags: [story,topo,software,matlab]
-hide_hero: true
 published: true
 image: false
 ---

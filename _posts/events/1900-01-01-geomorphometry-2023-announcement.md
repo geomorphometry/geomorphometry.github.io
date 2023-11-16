@@ -3,7 +3,6 @@ layout: page
 title: Geomorphometry 2023 - Announcement
 date: "2022-10-15"
 tags: [story,event,Iasi,Romania]
-hide_hero: true
 published: true
 image: false
 ---

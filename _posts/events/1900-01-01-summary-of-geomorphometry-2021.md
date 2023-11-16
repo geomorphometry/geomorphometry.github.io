@@ -3,7 +3,6 @@ layout: post
 title: "Summary of Geomorphometry 2021"
 date: "2021-09-27"
 tags: [story,event,Perugia,Italy]
-hide_hero: true
 published: true
 image: false
 ---

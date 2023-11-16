@@ -3,7 +3,6 @@ layout: post
 title: Geomorphometry 2011 - Announcement
 date: "2010-12-10"
 tags: [story,event,Redlands,California,USA]
-hide_hero: true
 published: true
 image: false
 ---

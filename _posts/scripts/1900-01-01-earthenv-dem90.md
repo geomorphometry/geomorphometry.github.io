@@ -3,7 +3,6 @@ layout: post
 title: "EarthEnv-DEM90"
 date: "2016-08-19"
 tags: [dataset, script]
-hide_hero: true
 published: true
 image: false
 author: Tom Hengl

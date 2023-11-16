@@ -3,7 +3,6 @@ layout: post
 title: "Transformation (normalization) tool"
 date: "2015-01-19"
 tags: [dataset, script]
-hide_hero: true
 published: true
 image: false
 author: Tom Hengl

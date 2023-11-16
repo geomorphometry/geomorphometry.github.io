@@ -3,7 +3,6 @@ layout: post
 title: "Geomorphological mapping"
 date: "2009-11-04"
 tags: [dataset, script]
-hide_hero: true
 published: true
 image: false
 author: Tom Hengl

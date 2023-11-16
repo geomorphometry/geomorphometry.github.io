@@ -3,7 +3,6 @@ layout: post
 title: "Workshop: Automated analysis of elevation data in R+SAGA/GRASS"
 date: "2009-08-25"
 tags: [story,event,Zurich,Switzerland,workshop]
-hide_hero: true
 published: true
 image: false
 ---

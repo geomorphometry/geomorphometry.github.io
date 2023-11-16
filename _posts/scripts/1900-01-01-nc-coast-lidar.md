@@ -3,7 +3,6 @@ layout: post
 title: "North Carolina coast LiDAR"
 date: "2011-10-09"
 tags: [dataset, script]
-hide_hero: true
 published: true
 image: false
 author: Tom Hengl

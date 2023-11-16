@@ -3,7 +3,6 @@ layout: page
 title: Geomorphometry 2021 - General Information
 date: "2020-12-15"
 tags: [story,event,Perugia,Italy]
-hide_hero: true
 published: true
 image: false
 ---

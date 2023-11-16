@@ -3,7 +3,6 @@ layout: post
 title: "GDEM assessment"
 date: "2011-02-25"
 tags: [dataset, script]
-hide_hero: true
 published: true
 image: false
 author: Tom Hengl

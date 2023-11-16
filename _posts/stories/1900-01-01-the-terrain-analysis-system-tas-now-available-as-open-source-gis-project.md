@@ -3,7 +3,6 @@ layout: post
 title: "The Terrain Analysis System (TAS) now available as open-source GIS project"
 date: "2009-08-08"
 tags: [story,topo,software,tas,whitebox]
-hide_hero: true
 published: true
 image: false
 ---

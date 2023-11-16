@@ -3,7 +3,6 @@ layout: post
 title: "Call for papers on Global DEM Interoperability for the 2016 ISPRS Congress in Prague"
 date: "2015-08-01"
 tags: [story,event]
-hide_hero: true
 published: true
 image: false
 ---

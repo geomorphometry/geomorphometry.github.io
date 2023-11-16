@@ -3,7 +3,6 @@ layout: post
 title: "Geomorphometry 2023 - Venue"
 date: "2023-01-15"
 tags: [story,event,Iasi,Romania]
-hide_hero: true
 published: true
 image: false
 ---

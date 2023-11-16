@@ -3,7 +3,6 @@ layout: post
 title: "Boschoord case study"
 date: "2009-10-20"
 tags: [dataset, script]
-hide_hero: true
 published: true
 image: false
 author: Tom Hengl

@@ -3,7 +3,6 @@ layout: post
 title: "41st International Binghamton Geomorphology Symposium"
 date: "2010-02-01"
 tags: [story,event]
-hide_hero: true
 published: true
 image: false
 ---

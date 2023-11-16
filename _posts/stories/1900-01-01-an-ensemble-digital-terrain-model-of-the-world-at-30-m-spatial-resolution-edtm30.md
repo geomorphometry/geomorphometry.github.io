@@ -3,7 +3,6 @@ layout: post
 title: "An Ensemble Digital Terrain Model of the world at 30 m spatial resolution (EDTM30)"
 date: "2023-02-14"
 tags: [story,dataset,script,multiscale]
-hide_hero: true
 published: true
 image: false
 ---

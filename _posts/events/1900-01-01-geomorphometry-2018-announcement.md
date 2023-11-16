@@ -3,7 +3,6 @@ layout: page
 title: Geomorphometry 2018 - Announcement
 date: "2017-11-10"
 tags: [story,event,Boulder,Colorado,USA]
-hide_hero: true
 published: true
 image: false
 ---

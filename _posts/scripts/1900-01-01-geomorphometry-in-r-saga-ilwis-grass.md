@@ -3,7 +3,6 @@ layout: post
 title: "Geomorphometry in R + SAGA + ILWIS + GRASS"
 date: "2009-06-30"
 tags: [dataset, script]
-hide_hero: true
 published: true
 image: false
 author: Tom Hengl

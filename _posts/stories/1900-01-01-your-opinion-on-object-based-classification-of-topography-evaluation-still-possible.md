@@ -3,7 +3,6 @@ layout: post
 title: "Your opinion on object-based classification of topography - Evaluation still possible!"
 date: "2021-08-07"
 tags: [story,obia,poll]
-hide_hero: true
 published: true
 image: false
 ---

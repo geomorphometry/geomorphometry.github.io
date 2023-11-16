@@ -3,7 +3,6 @@ layout: post
 title: "Geomorphometry 2009 - Programme"
 date: "2009-08-20"
 tags: [story,event,Zurich,Switzerland]
-hide_hero: true
 published: true
 image: false
 ---

@@ -4,7 +4,6 @@ title: "GDEM - a quick assessment"
 date: "2021-08-07"
 feature-img: "/uploads/img/unsplash/travel.jpeg"
 tags: [story,aster,gdem]
-hide_hero: true
 published: true
 image: false
 ---

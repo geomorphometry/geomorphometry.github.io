@@ -3,7 +3,6 @@ layout: post
 title: "Geomorphometry 2015 - Programme"
 date: "2015-06-15"
 tags: [story,event,poznam,Poland]
-hide_hero: true
 published: true
 image: false
 ---

@@ -3,7 +3,6 @@ layout: post
 title: Geomorphometry 2018 - Programme
 date: "2018-04-11"
 tags: [story,event,Boulder,Colorado,USA]
-hide_hero: true
 published: true
 image: false
 ---

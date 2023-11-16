@@ -3,7 +3,6 @@ layout: post
 title: "Geomorphometry Newsletter July 2013"
 date: "2013-07-15"
 tags: newsletter
-hide_hero: true
 published: true
 image: false
 ---

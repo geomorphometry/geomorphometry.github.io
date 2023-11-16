@@ -3,7 +3,6 @@ layout: post
 title: "Geomorphometry 2015 Keynote and Invited speakers"
 date: "2014-11-15"
 tags: [story,event,poznam,Poland]
-hide_hero: true
 published: true
 image: false
 ---

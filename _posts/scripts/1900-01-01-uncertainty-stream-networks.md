@@ -3,7 +3,6 @@ layout: post
 title: "Uncertainty of stream networks derived from elevation data"
 date: "2009-12-23"
 tags: [dataset, script]
-hide_hero: true
 published: true
 image: false
 author: Tom Hengl

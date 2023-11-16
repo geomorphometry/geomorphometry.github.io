@@ -3,7 +3,6 @@ layout: post
 title: "Geomorphometry group at arcgis.com"
 date: "2011-09-01"
 tags: [story,arcgis]
-hide_hero: true
 published: true
 image: false
 ---

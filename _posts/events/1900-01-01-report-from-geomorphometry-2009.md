@@ -3,7 +3,6 @@ layout: post
 title: "Report from Geomorphometry 2009"
 date: "2009-11-01"
 tags: [story,event,Zurich,Switzerland]
-hide_hero: true
 published: true
 image: false
 author: Bob MacMillan

@@ -3,7 +3,6 @@ layout: post
 title: "Digital Elevation Models (DEMs): Terminology and Definitions"
 date: "2021-09-16"
 tags: [story,srtm,aster,alos,fabdem,nasadem,copdem,copernicus,publication,demix]
-hide_hero: true
 published: true
 image: false
 ---

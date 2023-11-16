@@ -3,7 +3,6 @@ layout: post
 title: "Symposium on Surface Modeling, 21-25 August, Beijing, China"
 date: "2015-11-01"
 tags: [story,event]
-hide_hero: true
 published: true
 image: false
 ---

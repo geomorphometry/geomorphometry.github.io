@@ -4,7 +4,6 @@ title: "New Parallel version of Hydrologic Terrain Analysis Software TauDEM"
 date: "2012-03-05"
 feature-img: "/uploads/img/unsplash/travel.jpeg"
 tags: [story,hydro,software,arcgis]
-hide_hero: true
 published: true
 image: false
 ---

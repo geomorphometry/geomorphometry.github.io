@@ -3,7 +3,6 @@ layout: post
 title: "Digital Elevation Model Intercomparison eXperiment (DEMIX) working group"
 date: "2021-08-19"
 tags: [story,srtm,aster,alos,fabdem,nasadem,copdem,copernicus,publication,demix]
-hide_hero: true
 published: true
 image: false
 ---

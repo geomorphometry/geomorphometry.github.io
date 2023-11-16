@@ -3,7 +3,6 @@ layout: page
 title: Geomorphometry 2021 - Conference Registration
 date: "2021-02-15"
 tags: [story,event,Perugia,Italy]
-hide_hero: true
 published: true
 image: false
 ---

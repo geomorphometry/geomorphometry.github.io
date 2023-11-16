@@ -3,7 +3,6 @@ layout: post
 title: "Call for Papers: Special issue of Hydrology and Earth System Sciences (HESS) on Geomorphometry and Hydrology"
 date: "2009-10-01"
 tags: [story,event]
-hide_hero: true
 published: true
 image: false
 ---

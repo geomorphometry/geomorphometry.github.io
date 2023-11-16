@@ -3,7 +3,6 @@ layout: post
 title: "Geomorphometry 2013 - Programme"
 date: "2013-06-24"
 tags: [story,event,Nanjing,China]
-hide_hero: true
 published: true
 image: false
 ---

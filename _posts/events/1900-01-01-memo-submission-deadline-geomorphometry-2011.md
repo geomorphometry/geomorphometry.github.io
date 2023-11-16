@@ -3,7 +3,6 @@ layout: post
 title: "MEMO: Submission deadline Geomorphometry 2011"
 date: "2011-05-25"
 tags: [story,event,Redlands,California,USA]
-hide_hero: true
 published: true
 image: false
 ---

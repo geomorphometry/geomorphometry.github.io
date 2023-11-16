@@ -3,7 +3,6 @@ layout: post
 title: "IALE2009 Symposium6 presentations online"
 date: "2009-07-20"
 tags: [story,event]
-hide_hero: true
 published: true
 image: false
 ---

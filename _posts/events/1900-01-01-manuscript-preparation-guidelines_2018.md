@@ -3,7 +3,6 @@ layout: post
 title: "Manuscript preparation guidelines 2018"
 date: "2018-02-10"
 tags: [story,event,Boulder,Colorado,USA]
-hide_hero: true
 published: true
 image: false
 ---

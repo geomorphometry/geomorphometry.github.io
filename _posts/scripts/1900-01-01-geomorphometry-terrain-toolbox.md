@@ -3,7 +3,6 @@ layout: post
 title: "geomorphometry terrain toolbox"
 date: "2009-09-23"
 tags: [dataset, script]
-hide_hero: true
 published: true
 image: false
 author: Hannes Reuter

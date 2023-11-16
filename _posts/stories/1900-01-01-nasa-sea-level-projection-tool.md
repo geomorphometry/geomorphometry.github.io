@@ -4,7 +4,6 @@ title: "NASA Sea level projection tool"
 date: "2021-08-12"
 feature-img: "/uploads/img/unsplash/travel.jpeg"
 tags: [story,nasa,dataset]
-hide_hero: true
 published: true
 image: false
 ---

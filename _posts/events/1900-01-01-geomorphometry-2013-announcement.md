@@ -3,7 +3,6 @@ layout: page
 title: Geomorphometry 2013 - Announcement
 date: "2012-12-15"
 tags: [story,event,Nanjing,China]
-hide_hero: true
 published: true
 image: false
 ---

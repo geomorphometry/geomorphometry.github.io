@@ -3,7 +3,6 @@ layout: post
 title: "Geomorphometry Society meeting 2009 / E-democracy"
 date: "2009-08-31"
 tags: [story,event,Zurich,Switzerland,e-democracy]
-hide_hero: true
 published: true
 image: false
 ---

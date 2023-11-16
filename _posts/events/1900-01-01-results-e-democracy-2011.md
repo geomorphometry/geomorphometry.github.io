@@ -3,7 +3,6 @@ layout: post
 title: "Results e-democracy 2011"
 date: "2011-09-09"
 tags: [story,event,Redlands,California,USA,e-democracy]
-hide_hero: true
 published: true
 image: false
 ---

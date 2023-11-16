@@ -3,7 +3,6 @@ layout: post
 title: "Flow magnitude and drainage basins"
 date: "2009-08-21"
 tags: [dataset, script]
-hide_hero: true
 published: true
 image: false
 author: J. Wood

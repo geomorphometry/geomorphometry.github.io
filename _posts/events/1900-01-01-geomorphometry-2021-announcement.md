@@ -3,7 +3,6 @@ layout: page
 title: Geomorphometry 2021 - Announcement
 date: "2020-11-15"
 tags: [story,event,Perugia,Italy]
-hide_hero: true
 published: true
 image: false
 ---

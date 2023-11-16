@@ -3,7 +3,6 @@ layout: post
 title: "Geostatistical simulations of topography"
 date: "2009-08-20"
 tags: [dataset, script]
-hide_hero: true
 published: true
 image: false
 author: Tom Hengl

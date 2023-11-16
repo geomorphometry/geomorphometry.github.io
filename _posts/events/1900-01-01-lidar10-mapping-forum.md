@@ -3,7 +3,6 @@ layout: post
 title: "LiDAR10 Mapping Forum"
 date: "2010-03-10"
 tags: [story,event]
-hide_hero: true
 published: true
 image: false
 ---

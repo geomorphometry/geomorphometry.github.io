@@ -3,7 +3,6 @@ layout: post
 title: "Triangles and kebabs (from Geomorphometry 2009)"
 date: "2009-10-15"
 tags: [story,event,Zurich,Switzerland]
-hide_hero: true
 published: true
 image: false
 author: Marcelo Gorini  
