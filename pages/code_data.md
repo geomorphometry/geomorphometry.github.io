@@ -10,7 +10,7 @@ show_sidebar: false
 
 ### Community
 
-You can have your script/software/dataset listed in this page and help the whole community! Just post your files on a repository such as [Zenodo](https://zenodo.org/) or [GitHub](github.com/), write a blog post describing your work ([see instructions here]()) and contact us via e-mail or our [contact form]() so we can update the list and have your post published. 
+You can have your script/software/dataset listed in this page and help the whole community! Just post your files on a repository such as [Zenodo](https://zenodo.org/) or [GitHub](github.com/), write a blog post describing your work ([see instructions here]({{site.baseurl}}/2024/03/01/how_to_make_a_blog_post/)) and contact us via e-mail or our [contact form]({{site.baseurl}}/contact) so we can update the list and have your post published. 
 
 If you choose to host your data in Zenodo, we have an open community that you can select when uploading your files:  
 - [Geomorphometry Community](https://zenodo.org/communities/geomorphometry)
@@ -19,13 +19,19 @@ If you choose to host your data in Zenodo, we have an open community that you ca
 ### Open sources of elevation/topographic data:
 - [http://opentopography.org](http://opentopography.org/)
 - [https://earthexplorer.usgs.gov](https://earthexplorer.usgs.gov)
-- [ALOS AW3D30](https://www.eorc.jaxa.jp/ALOS/en/dataset/aw3d30/aw3d30_e.htm)
-- [ASTER GDEM](https://search.earthdata.nasa.gov/search/granules?p=C1711961296-LPCLOUD)
+- [USGS 3DEP](https://www.usgs.gov/3d-elevation-program)
 - [Copernicus DEM](https://doi.org/10.5270/ESA-c5d3d65)
 - [FABDEM](https://doi.org/10.5523/bris.s5hqmjcdj8yo2ibzi9b4ew3sn)
+- [ALOS AW3D30](https://www.eorc.jaxa.jp/ALOS/en/dataset/aw3d30/aw3d30_e.htm)
 - [NASADEM](https://search.earthdata.nasa.gov/search?q=C1546314043-LPDAAC_ECS)
 - [SRTM](https://search.earthdata.nasa.gov/search/granules?p=C1000000240-LPDAAC_ECS)
+- [ASTER GDEM](https://search.earthdata.nasa.gov/search/granules?p=C1711961296-LPCLOUD)
 - [EarthEnv-DEM90](http://www.earthenv.org/DEM)
+- [MERIT_DEM](https://hydro.iis.u-tokyo.ac.jp/~yamadai/MERIT_DEM/)
+- [Diluvium DEM](https://zenodo.org/records/8384665)
+- [DeltaDTM](https://doi.org/10.4121/21997565.v2)
+- [SRTM 15plus](https://topex.ucsd.edu/WWW_html/srtm15_plus.html)
+- [ETOPO 2022](https://www.ncei.noaa.gov/products/etopo-global-relief-model)
 
 
 ### Geomorphometry.org datasets 
