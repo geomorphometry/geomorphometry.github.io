@@ -1,14 +1,6 @@
-style: is-light
+style: is-light has-text-link
 height: is-small
 items:
-  - title: ISG Coffee Talks
-    subtitle: 
-    icon: fa-solid fa-mug-saucer
-    description: >
-      Informal and open discussions. 
-    call_to_action_name: Tell me more!
-    call_to_action_link: /coffee_talks/
-
   - title: Geomorphometry 2025
     subtitle: 
     icon: mdi mdi-presentation-play
@@ -16,6 +8,14 @@ items:
       Updates for our next meeting!
     call_to_action_name: Can't wait!
     call_to_action_link: /2025/
+
+  - title: ISG Coffee Talks
+    subtitle: 
+    icon: fa-solid fa-mug-saucer
+    description: >
+      Informal and open discussions. 
+    call_to_action_name: Tell me more!
+    call_to_action_link: /coffee_talks/
     
   - title: Blog posts
     subtitle: 
