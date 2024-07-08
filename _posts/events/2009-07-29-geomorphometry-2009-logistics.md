@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Geomorphometry 2009 logistics"
-date: "2021-07-29"
+date: "2009-07-29"
 tags: [story,event,Zurich,Switzerland]
 published: true
 image: false
