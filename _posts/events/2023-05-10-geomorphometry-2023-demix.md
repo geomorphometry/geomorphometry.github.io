@@ -5,12 +5,14 @@ date: "2023-05-10"
 tags: [story,event,Iasi,Romania]
 published: true
 image: false
+author: ISG Council
+excerpt_separator: <!--more-->
 ---
-
 
 ![]({{site.baseurl}}/uploads/img/logos/demix_logo.png)
 
 DEMIX (DEM Intercomparison eXercise) is a CEOS / WGCV / TMSG initiative supported by ESA as part of the EDAP+ project and by USGS. The objective of DEMIX is to compare global DEMs, and in particular, those at 1” arcsecond such as SRTM, ASTER GDEM, ALOS World-3D, NASADEM, COP-DEM, and FABDEM to allow different users to select the one that best suits their needs in their areas of interest. This choice is based on the results of criteria tested in different areas and evaluated using a “Wine contest” method where both quantitative and qualitative results can be freely combined for the candidate DEMs. The DEMIX project, developed out of a JRC workshop on Global DEM Benchmarking in 2019, started in July 2020 and is rolled out in three subgroups: (1) terminology and analytical basis, (2) algorithms and software, and (3) platforms and processing.  
+<!--more-->
 
 This DEMIX workshop is intended to present the results of this project, invite you to participate, and offer you access to the platforms and services that have been developed.
 

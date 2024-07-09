@@ -12,6 +12,7 @@ image: false
 
 ![]({{site.baseurl}}/uploads/img/posts/GEOMORPHOMETRY2023_PROGRAMME.png)
 
+<!--more-->
 
 ### Monday (10th July) – Day 1
 

@@ -20,6 +20,8 @@ remote_theme: chrisrhymes/bulma-clean-theme
 paginate: 5
 paginate_path: "/blog/page:num"
 
+excerpt_separator: <!--more-->
+
 # Disqus Comments
 disqus:
   # Leave shortname blank to disable comments site-wide.

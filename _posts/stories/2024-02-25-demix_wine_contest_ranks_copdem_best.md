@@ -11,6 +11,8 @@ There is a new paper (open access) by the DEMIX workgroup on a global ranking of
 
 Bielski, C., López-Vázquez, C., Grohmann, C. H., Guth, P. L., Hawker, L., Gesch, D., Trevisani, S., Herrera-Cruz, V., Riazanoff, S., Corseaux, A., Reuter, H. I., & Strobl, P. 2024. Novel approach for ranking DEMs: Copernicus DEM improves one arc second open global topography. IEEE Transactions on Geoscience & Remote Sensing, 62:1-22. [https://doi.org/10.1109/TGRS.2024.3368015](https://doi.org/10.1109/TGRS.2024.3368015)  
 
+<!--more-->
+
 The paper is the second major contribution of the DEMIX project ([DEM Intercomparison EXercise](https://youtu.be/veZA4O1rU28)). Here the group worked with a large database of test areas, comparing the 6 global DEMs (Copernicus, ALOS, ASTER, SRTM, NASADEM and FABDEM) against reference data from LiDAR surveys. The comparison involved several criteria and a statistical procedure to rank the global DEMs which was nicknamed the "wine contest". 
 
 The results highlight the superiority of CopernicusDEM over the others, and show that in some conditions ALOS AW3D30 is also a good option, FABDEM is a good DTM approximation, ASTER GDEM is the worst-ranking in all situations, and SRTM and NASADEM should only be considered when there is a need for the representation of topography in the year 2000.  

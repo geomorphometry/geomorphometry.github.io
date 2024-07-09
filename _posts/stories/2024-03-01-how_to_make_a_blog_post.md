@@ -8,10 +8,11 @@ image: false
 author: C.H. Grohmann
 ---
 
-
 So you want to post something to geomorphometry.org? Excellent!  
 
 The posts themselves are quite simple to make. Just write it using [markdown](https://www.markdownguide.org/getting-started/) and it should work. If you're new to markdown, [this guide](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) can help you with the first steps.   
+
+ <!--more-->
 
 The website is hosted at Github and deployed as a github-page, so not _all_ markdown formatting works. Check [this guide](https://www.markdownguide.org/tools/github-pages/) to see what works and what doesn't. 
 

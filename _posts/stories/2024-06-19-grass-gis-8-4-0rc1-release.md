@@ -5,19 +5,18 @@ date: "2024-06-19"
 tags: [story,software,foss,grass]
 published: true
 image: false
+author: C.H. Grohmann
 ---
 
+The GRASS GIS 8.4.0RC1 release provides more than 515 improvements and fixes with respect to the release 8.3.2.  
 
-The GRASS GIS 8.4.0RC1 release provides more than 515 improvements and fixes with respect to the release 8.3.2.
-
-Check the full announcement at [https://github.com/OSGeo/grass/releases/tag/8.4.0RC1](https://github.com/OSGeo/grass/releases/tag/8.4.0RC1)  
-
+Check the full announcement at [https://github.com/OSGeo/grass/releases/tag/8.4.0RC1](https://github.com/OSGeo/grass/releases/tag/8.4.0RC1).  
 
 Please support in testing this release candidate.  
 
+<!--more-->
 
-**Highlights**
-
+**Highlights**  
 - *location* becomes *project*: The Python API, command line, and
 graphical user interface are now using *project* instead of *location*
 for the main component of the data hiearchy while maintaining backward
@@ -44,11 +43,10 @@ display window, for a smoother user experience
 <https://github.com/OSGeo/grass/blob/main/doc/development/style_guide.md>
 
 
-**New Addon Tools**
-
-   - i.eodag <https://grass.osgeo.org/grass-stable/manuals/addons/i.eodag.html>: Downloads imagery datasets from various providers through the EODAG API.
-   - r.flowaccumulation <https://grass.osgeo.org/grass-stable/manuals/addons/r.flowaccumulation.html>: Calculates flow accumulation from a flow direction raster map using the Memory-Efficient Flow Accumulation (MEFA) parallel algorithm by Cho (2023).
-   - r.fusion <https://grass.osgeo.org/grass-stable/manuals/addons/r.fusion.html>: image fusion, generalized pan-sharpening.
-   - r.windfetch: addon for computing wind fetch.
-   - r.maxent.train <https://grass.osgeo.org/grass-stable/manuals/addons/r.maxent.train.html>
-   - r.maxent.predict <https://grass.osgeo.org/grass-stable/manuals/addons/r.maxent.predict.html>: train, and predict a Maxent model to create a suitability distribution layer.
+**New Addon Tools**  
+- i.eodag <https://grass.osgeo.org/grass-stable/manuals/addons/i.eodag.html>: Downloads imagery datasets from various providers through the EODAG API.
+- r.flowaccumulation <https://grass.osgeo.org/grass-stable/manuals/addons/r.flowaccumulation.html>: Calculates flow accumulation from a flow direction raster map using the Memory-Efficient Flow Accumulation (MEFA) parallel algorithm by Cho (2023).
+- r.fusion <https://grass.osgeo.org/grass-stable/manuals/addons/r.fusion.html>: image fusion, generalized pan-sharpening.
+- r.windfetch: addon for computing wind fetch.
+- r.maxent.train <https://grass.osgeo.org/grass-stable/manuals/addons/r.maxent.train.html>
+- r.maxent.predict <https://grass.osgeo.org/grass-stable/manuals/addons/r.maxent.predict.html>: train, and predict a Maxent model to create a suitability distribution layer.
