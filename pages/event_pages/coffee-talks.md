@@ -23,7 +23,7 @@ Proposals for topics can be sent anytime to the Email [geomorphometry.org@gmail.
 **Schedule**  
 
 |2025-02-04 | Dr. Guiseppe Amatulli - Spatial Ecology, Italy <br> title to be submitted <br> |
-|2024-12-04 | Ernest Harland  - Airbus , Germany <br> Insights into the production process of global radar dems <br>|
+|2024-12-04 | Ernest Fahrland- Airbus, Germany <br> Insights into the production process of global radar dems <br>|
 
 
 |2023-06-07 | Dr. Sebastiano Trevisani - Università Iuav di Venezia, Italy <br> [A simplified geostatistical approach for digging into the complexity of surface roughness analysis: need for standardization?][pdf_sebastiano] <br> Recording available in our [YouTube channel][video_sebastiano]|
