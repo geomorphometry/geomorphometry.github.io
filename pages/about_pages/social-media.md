@@ -11,6 +11,8 @@ Follow us!
 
 [**Facebook group**](https://www.facebook.com/groups/geomorphometry/)
 
+**YouTube Channel [@geomorphometry](https://www.youtube.com/@geomorphometry)**
+
 **Twitter [@GeomorphomOrg](https://mobile.twitter.com/geomorphomorg)**
 
 **Twitter [@GalsOfGeomorph](https://mobile.twitter.com/GalsOfGeomorph)**
