@@ -15,8 +15,9 @@ show_sidebar: false
 
 <div class="block" style="width:75%">
 
-<form target="_blank" action="https://formsubmit.co/geomorphometry.org@gmail.com" method="POST" >
+<!-- <form target="_blank" action="https://formsubmit.co/geomorphometry.org@gmail.com" method="POST" > -->
 <!-- <input type="hidden" name="_next" value="https://yourdomain.co/thanks.html"> -->
+<form target="_blank" action="https://formsubmit.co/31775363d5b65b3d5ab0d32bb37c6234" method="POST"  enctype="multipart/form-data">
 <input type="hidden" name="_subject" value="[Geomorphometry.org] MEMBERSHIP - new form submitted!">
 <input type="hidden" name="_template" value="table">
 <!-- <input type="hidden" name="_cc" value="another@email.com"> -->
