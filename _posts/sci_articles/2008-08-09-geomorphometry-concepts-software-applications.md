@@ -3,7 +3,7 @@ layout: post
 tags: [biblio,paper,book]
 title: "Book - Geomorphometry: Concepts, Software, Applications"
 date: "2008-08-09"
-tags: [story,book]
+tags: [story,book,publication]
 published: true
 image: false
 ---

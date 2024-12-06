@@ -2,7 +2,7 @@
 layout: post
 title: "ANADEM: A Digital Terrain Model for South America"
 date: "2024-06-30"
-tags: [story,srtm,aster,alos,fabdem,nasadem,copdem,copernicus,publication,demix]
+tags: [story,srtm,aster,alos,fabdem,nasadem,copdem,copernicus,demix,dataset]
 published: true
 image: false
 author: C.H. Grohmann
