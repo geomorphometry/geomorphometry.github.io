@@ -15,8 +15,8 @@ The conference date is **09-13 June, 2025**.
 Here are some important dates:  
 
 |1 November   |Easy Chair opens for submissions. Submissions are four pages extended abstracts, with original content, and must be uploaded on the EasyChair platform: [https://easychair.org/conferences/?conf=geomorphometry2025](https://easychair.org/conferences/?conf=geomorphometry2025) |
-|15 January   |Abstracts due in Easy Chair and workshop proposals due|
-|20 February  |Notification of abstract acceptance, invitation letters available for those who need them|
+|**31 January**   |Abstracts due in Easy Chair and workshop proposals due|
+|28 February  |Notification of abstract acceptance, invitation letters available for those who need them|
 |21 March     |Conference schedule out on conference web site|
 |25 April     |Papers uploaded to Zenodo Geomorphometry community|
 |9 June       |Conference starts!|
