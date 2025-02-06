@@ -22,8 +22,8 @@ Proposals for topics can be sent anytime to the Email [geomorphometry.org@gmail.
 
 **Schedule**  
 
-|2025-02-05 | Dr. Guiseppe Amatulli - Spatial Ecology, Italy <br> [Hydrography90m: pushing the boundaries of computational hydrology][pdf_guiseppe] <br> Recording will become available in our [YouTube channel][xxxxx]|
-|2024-12-04 | Ernest Fahrland- Airbus, Germany <br> [Insights into the production process of global radar DEMs][pdf_ernest] <br> Recording will become available in our [YouTube channel][xxxxx]|
+|2025-02-05 | Dr. Guiseppe Amatulli - Spatial Ecology, Italy <br> [Hydrography90m: pushing the boundaries of computational hydrology][pdf_guiseppe] <br> Recording available in our [YouTube channel][video_giuseppe]|
+|2024-12-04 | Ernest Fahrland- Airbus, Germany <br> [Insights into the production process of global radar DEMs][pdf_ernest] <br> Recording available in our [YouTube channel][video_ernest]|
 |2023-06-07 | Dr. Sebastiano Trevisani - Università Iuav di Venezia, Italy <br> [A simplified geostatistical approach for digging into the complexity of surface roughness analysis: need for standardization?][pdf_sebastiano] <br> Recording available in our [YouTube channel][video_sebastiano]|
 |2023-05-04 | Dr. Peter Strobl - European Commission - JRC <br> [DEMIX: Digital Elevation Model Intercomparison eXercise][pdf_peterstrobl] <br> Recording available in our [YouTube channel][video_peterstrobl] |
 |2023-02-01 | Dr. Tomislav Hengl - OpenGeoHub <br> [Open-Earth-Monitor: Cloud services for global elevation data and seamless geomorphometric analysis][pdf_tomhengl] <br> Recording available in our [YouTube channel][video_tomhengl] |
@@ -38,7 +38,8 @@ Proposals for topics can be sent anytime to the Email [geomorphometry.org@gmail.
 [pdf_johnlindsay]: <{{site.baseurl}}/uploads/pdf/gct/CoffeeTalk_JohnLindsay_07.12.2022.pdf>
 [pdf_laurence]: <{{site.baseurl}}/uploads/pdf/gct/CoffeeTalk_LaurenceHawker_05.10.2022.pdf>
 
-
+[video_giuseppe]: <https://www.youtube.com/watch?v=_9D0jzHCOEA>
+[video_ernest]: <https://www.youtube.com/watch?v=hDer5pnmR8M>
 [video_sebastiano]: <https://www.youtube.com/watch?v=UfIBlZ2WhIM>
 [video_peterstrobl]: <https://www.youtube.com/watch?v=b-NGX-RTJUo>
 [video_tomhengl]: <https://www.youtube.com/watch?v=EkHM8bP1CZM>
