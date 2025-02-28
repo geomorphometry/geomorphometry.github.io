@@ -21,6 +21,7 @@ Proposals for topics can be sent anytime to the Email [geomorphometry.org@gmail.
 &nbsp;
 
 **Schedule**  
+
 |2025-04-02 | Dr. Wolfgang Schwanghart - University Potsdam, Germany <br> [Title to be submitted][pdf_wolfgang - not yet existing] <br> Recording available in our [YouTube channel][video_wolfgang - not yet existing]|
 |2025-02-05 | Dr. Guiseppe Amatulli - Spatial Ecology, Italy <br> [Hydrography90m: pushing the boundaries of computational hydrology][pdf_guiseppe] <br> Recording available in our [YouTube channel][video_giuseppe]|
 |2024-12-04 | Ernest Fahrland- Airbus, Germany <br> [Insights into the production process of global radar DEMs][pdf_ernest] <br> Recording available in our [YouTube channel][video_ernest]|
