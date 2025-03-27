@@ -31,6 +31,7 @@ Proposals for topics can be sent anytime to the Email [geomorphometry.org@gmail.
 |2022-12-07 | Prof. John Lindsay - University of Guelph <br> [WhiteBox for Geomorphometry][pdf_johnlindsay] <br> Recording available in our [YouTube channel][video_johnlindsay] |
 |2022-10-05 | Dr. Laurence Hawker - University of Bristol <br> [How fab is FABDEM?][pdf_laurence] <br> Recording available in our [YouTube channel][video_laurence] |
 
+[pdf_wolfgang]: <{{site.baseurl}}/uploads/pdf/gct/CoffeeTalk_WolfgangSchwanghart_02.04.2025.pdf>
 [pdf_guiseppe]: <{{site.baseurl}}/uploads/pdf/gct/CoffeeTalk_GuiseppeAmatulli_05.02.2025.pdf>
 [pdf_ernest]: <{{site.baseurl}}/uploads/pdf/gct/CoffeeTalk_ErnestFahrland_04.12.2024.pdf>
 [pdf_sebastiano]: <{{site.baseurl}}/uploads/pdf/gct/CoffeeTalk_Trevisani_06.07.2023.pdf>
