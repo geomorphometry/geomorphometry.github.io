@@ -22,7 +22,7 @@ Proposals for topics can be sent anytime to the Email [geomorphometry.org@gmail.
 
 **Schedule**  
 
-|2025-04-02 | Dr. Wolfgang Schwanghart - University Potsdam, Germany <br> [Title to be submitted][pdf_wolfgang - not yet existing] <br> Recording available in our [YouTube channel][video_wolfgang - not yet existing]|
+|2025-04-02 | Dr. Wolfgang Schwanghart - University Potsdam, Germany <br> [Quantitative interrogation of DEMs using TopoToolbox][pdf_wolfgang] <br> Recording available in our [YouTube channel][video_wolfgang - not yet existing]|
 |2025-02-05 | Dr. Guiseppe Amatulli - Spatial Ecology, Italy <br> [Hydrography90m: pushing the boundaries of computational hydrology][pdf_guiseppe] <br> Recording available in our [YouTube channel][video_giuseppe]|
 |2024-12-04 | Ernest Fahrland- Airbus, Germany <br> [Insights into the production process of global radar DEMs][pdf_ernest] <br> Recording available in our [YouTube channel][video_ernest]|
 |2023-06-07 | Dr. Sebastiano Trevisani - Università Iuav di Venezia, Italy <br> [A simplified geostatistical approach for digging into the complexity of surface roughness analysis: need for standardization?][pdf_sebastiano] <br> Recording available in our [YouTube channel][video_sebastiano]|
