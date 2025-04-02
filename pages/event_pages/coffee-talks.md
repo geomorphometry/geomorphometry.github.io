@@ -21,7 +21,7 @@ Proposals for topics can be sent anytime to the Email [geomorphometry.org@gmail.
 &nbsp;
 
 **Schedule**  
-|2025-05-07 | Yu-Feng Ho  - OpenGeoHub, Netherlands <br> [GEDTM30 and mutliscale Land Surface Parameters][not yet available] <br> Recording available in our [YouTube channel][video_yu-feng - not yet existing]|
+|2025-05-07 | Yu-Feng Ho  - OpenGeoHub, Netherlands <br> [Optimizing Big data ML in a HPC: global digital terrain modeling and canopy height mapping 2000-2022+ using ICESat-2, GEDI and spatiotemporal ML][not yet available] <br> Recording available in our [YouTube channel][video_yu-feng - not yet existing]|
 
 |2025-04-02 | Dr. Wolfgang Schwanghart - University Potsdam, Germany <br> [Quantitative interrogation of DEMs using TopoToolbox][pdf_wolfgang] <br> Recording available in our [YouTube channel][video_wolfgang - not yet existing]|
 |2025-02-05 | Dr. Guiseppe Amatulli - Spatial Ecology, Italy <br> [Hydrography90m: pushing the boundaries of computational hydrology][pdf_guiseppe] <br> Recording available in our [YouTube channel][video_giuseppe]|
