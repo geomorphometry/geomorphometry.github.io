@@ -16,11 +16,12 @@ This platform would be as open as possible to engage with each other and reach o
 
 Each coffee talk will be featuring an initial 15-20 minute discussion in a Zoom meeting, followed by an open exchange/discussion. The session will conclude at 60 minutes with a short wrap-up of the session by the session moderator. Links to the recorded sessions (if permitted by presenters) will be available at the ISG Website. The ISG Board will draw up a list of topics for a series for a year. Announcements of session topics will be at the website and the social media accounts of the ISG.
 
-Proposals for topics can be sent anytime to the Email [geomorphometry.org@gmail.com](mailto:geomorphometry.org@gmail.com) to be included in the schedule. The date is the first Wednesday of every second month at 15:00 UTC to allow worldwide participation.
+Proposals for topics can be sent anytime to the Email [geomorphometry.org@gmail.com](mailto:geomorphometry.org@gmail.com) to be included in the schedule. The date is the first Wednesday of every second month at 15:00 CET to allow worldwide participation.
 
 &nbsp;
 
 **Schedule**  
+|2025-05-07 | Yu-Feng Ho  - OpenGeoHub, Netherlands <br> [GEDTM30 and mutliscale Land Surface Parameters][not yet available] <br> Recording available in our [YouTube channel][video_yu-feng - not yet existing]|
 
 |2025-04-02 | Dr. Wolfgang Schwanghart - University Potsdam, Germany <br> [Quantitative interrogation of DEMs using TopoToolbox][pdf_wolfgang] <br> Recording available in our [YouTube channel][video_wolfgang - not yet existing]|
 |2025-02-05 | Dr. Guiseppe Amatulli - Spatial Ecology, Italy <br> [Hydrography90m: pushing the boundaries of computational hydrology][pdf_guiseppe] <br> Recording available in our [YouTube channel][video_giuseppe]|
