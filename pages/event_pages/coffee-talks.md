@@ -41,7 +41,7 @@ Proposals for topics can be sent anytime to the Email [geomorphometry.org@gmail.
 [pdf_johnlindsay]: <{{site.baseurl}}/uploads/pdf/gct/CoffeeTalk_JohnLindsay_07.12.2022.pdf>
 [pdf_laurence]: <{{site.baseurl}}/uploads/pdf/gct/CoffeeTalk_LaurenceHawker_05.10.2022.pdf>
 
-[video_wolfgang]: <https://www.youtube.com/watch?v=Fcat9ZnmhQs>
+[video_wolfgang]: <https://www.youtube.com/watch?v=HBsrmeaO3gY>
 [video_giuseppe]: <https://www.youtube.com/watch?v=_9D0jzHCOEA>
 [video_ernest]: <https://www.youtube.com/watch?v=hDer5pnmR8M>
 [video_sebastiano]: <https://www.youtube.com/watch?v=UfIBlZ2WhIM>
