@@ -22,7 +22,7 @@ Proposals for topics can be sent anytime to the Email [geomorphometry.org@gmail.
 
 **Schedule**  
 
-|2025-05-07 | Yu-Feng Ho  - OpenGeoHub, Netherlands <br> [Optimizing Big data ML in a HPC: global digital terrain modeling and canopy height mapping 2000-2022+ using ICESat-2, GEDI and spatiotemporal ML][not yet available] <br> Recording will be available in our YouTube channel|
+|2025-05-07 | Yu-Feng Ho  - OpenGeoHub, Netherlands <br> [Optimizing Big data ML in a HPC: global digital terrain modeling and canopy height mapping 2000-2022+ using ICESat-2, GEDI and spatiotemporal ML][pdf_yufeng] <br> Recording will be available in our YouTube channel|
 |2025-04-02 | Dr. Wolfgang Schwanghart - University Potsdam, Germany <br> [Quantitative interrogation of DEMs using TopoToolbox][pdf_wolfgang] <br> Recording available in our [YouTube channel][video_wolfgang]|
 |2025-02-05 | Dr. Guiseppe Amatulli - Spatial Ecology, Italy <br> [Hydrography90m: pushing the boundaries of computational hydrology][pdf_guiseppe] <br> Recording available in our [YouTube channel][video_giuseppe]|
 |2024-12-04 | Ernest Fahrland- Airbus, Germany <br> [Insights into the production process of global radar DEMs][pdf_ernest] <br> Recording available in our [YouTube channel][video_ernest]|
@@ -32,6 +32,7 @@ Proposals for topics can be sent anytime to the Email [geomorphometry.org@gmail.
 |2022-12-07 | Prof. John Lindsay - University of Guelph <br> [WhiteBox for Geomorphometry][pdf_johnlindsay] <br> Recording available in our [YouTube channel][video_johnlindsay] |
 |2022-10-05 | Dr. Laurence Hawker - University of Bristol <br> [How fab is FABDEM?][pdf_laurence] <br> Recording available in our [YouTube channel][video_laurence] |
 
+[pdf_yufeng]: <{{site.baseurl}}/uploads/pdf/gct/CoffeeTalk_Yu-FengHo_07.05.2025.pdf>
 [pdf_wolfgang]: <{{site.baseurl}}/uploads/pdf/gct/CoffeeTalk_WolfgangSchwanghart_02.04.2025.pdf>
 [pdf_guiseppe]: <{{site.baseurl}}/uploads/pdf/gct/CoffeeTalk_GuiseppeAmatulli_05.02.2025.pdf>
 [pdf_ernest]: <{{site.baseurl}}/uploads/pdf/gct/CoffeeTalk_ErnestFahrland_04.12.2024.pdf>
