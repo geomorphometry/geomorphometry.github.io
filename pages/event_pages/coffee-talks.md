@@ -22,7 +22,7 @@ Proposals for topics can be sent anytime to the Email [geomorphometry.org@gmail.
 
 **Schedule**  
 
-|2025-05-07 | Yu-Feng Ho  - OpenGeoHub, Netherlands <br> [Optimizing Big data ML in a HPC: global digital terrain modeling and canopy height mapping 2000-2022+ using ICESat-2, GEDI and spatiotemporal ML][pdf_yufeng] <br> Recording will be available in our YouTube channel|
+|2025-05-07 | Yu-Feng Ho  - OpenGeoHub, Netherlands <br> [Optimizing Big data ML in a HPC: global digital terrain modeling and canopy height mapping 2000-2022+ using ICESat-2, GEDI and spatiotemporal ML][pdf_yufeng] <br> Recording available in our [YouTube channel][video_yufeng]|
 |2025-04-02 | Dr. Wolfgang Schwanghart - University Potsdam, Germany <br> [Quantitative interrogation of DEMs using TopoToolbox][pdf_wolfgang] <br> Recording available in our [YouTube channel][video_wolfgang]|
 |2025-02-05 | Dr. Guiseppe Amatulli - Spatial Ecology, Italy <br> [Hydrography90m: pushing the boundaries of computational hydrology][pdf_guiseppe] <br> Recording available in our [YouTube channel][video_giuseppe]|
 |2024-12-04 | Ernest Fahrland- Airbus, Germany <br> [Insights into the production process of global radar DEMs][pdf_ernest] <br> Recording available in our [YouTube channel][video_ernest]|
@@ -42,6 +42,7 @@ Proposals for topics can be sent anytime to the Email [geomorphometry.org@gmail.
 [pdf_johnlindsay]: <{{site.baseurl}}/uploads/pdf/gct/CoffeeTalk_JohnLindsay_07.12.2022.pdf>
 [pdf_laurence]: <{{site.baseurl}}/uploads/pdf/gct/CoffeeTalk_LaurenceHawker_05.10.2022.pdf>
 
+[video_yufeng]: <https://youtu.be/iVGgGJ8-Ods>
 [video_wolfgang]: <https://www.youtube.com/watch?v=HBsrmeaO3gY>
 [video_giuseppe]: <https://www.youtube.com/watch?v=_9D0jzHCOEA>
 [video_ernest]: <https://www.youtube.com/watch?v=hDer5pnmR8M>
