@@ -44,6 +44,7 @@ show_sidebar: false
 - Sebastiano Trevisani - University of Venice
 - Steve Kopp - ESRI
 - Tomislav Hengl - OpenGeoHub Foundation
+- Vincent Lecours, Université du Québec à Chicoutimi, Canada  
 
 ## Organizing Committee
 
