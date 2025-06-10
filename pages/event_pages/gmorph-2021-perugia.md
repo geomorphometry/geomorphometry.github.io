@@ -73,6 +73,7 @@ ISBN 978 88 8080 410 9 (updated version)
 - Scott D. Peckham - University of Colorado
 - Steve Kopp - ESRI
 - Tomislav Hengl - OpenGeoHub Foundation
+- Vincent Lecours, Université du Québec à Chicoutimi, Canada  
 
 
 ## Organizing Commitee
