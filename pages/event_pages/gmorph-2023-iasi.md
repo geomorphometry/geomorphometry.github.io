@@ -16,7 +16,7 @@ show_sidebar: false
 <img src="{{site.baseurl}}/uploads/img/logos/Logo-Negru-1024x281.png" width="40%" />  ![]({{site.baseurl}}/uploads/img/logos/arcadis-logo-vector-300x40.png)
 
 
-### Proceeding book
+### Proceedings book
 [Download it here!](https://www.geo.uaic.ro/geomorphometry2023/wp-content/uploads/2023/07/Geomorphometry_2023_Proceedings_book.pdf)
 
 ## Scientific Committee
