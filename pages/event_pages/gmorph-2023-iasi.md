@@ -13,7 +13,9 @@ show_sidebar: false
 ### Original Conference Website: [https://www.geo.uaic.ro/geomorphometry2023/](https://www.geo.uaic.ro/geomorphometry2023/)
 
 ## Sponsors
-<img src="{{site.baseurl}}/uploads/img/logos/Logo-Negru-1024x281.png" width="40%" />  ![]({{site.baseurl}}/uploads/img/logos/arcadis-logo-vector-300x40.png)
+<img src="{{site.baseurl}}/uploads/img/logos/Logo-Negru-1024x281.png" width="40%" /> 
+<br>
+![]({{site.baseurl}}/uploads/img/logos/arcadis-logo-vector-300x40.png)
 
 
 ### Proceedings book
