@@ -43,6 +43,8 @@
 - name: Galleries
   link: /#
   dropdown:
+    - name: Geomorphometry 2025 - Perugia, Italy
+      link: /gallery-2025/
     - name: Geomorphometry 2023 - Iași, Romania
       link: /gallery-2023/
     - name: Geomorphometry 2021 - Perugia, Italy

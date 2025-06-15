@@ -16,21 +16,21 @@ show_sidebar: false
 
 ### Supporting Institutions
 
-| <img src="{{site.baseurl}}/uploads/img/meet2025/Logo-irpi-cnr-new.png" width="150px" /> | Research Institute for Hydro-Geological Protection - National Research Council ([https://www.irpi.cnr.it/](https://www.irpi.cnr.it/)) | 
-| <img src="{{site.baseurl}}/uploads/img/meet2025/004-Unipg_marchio.png" width="150px" /> |         Department of Physics and Geology - University of Perugia ([https://www.unipg.it/en/](https://www.unipg.it/en/)) | 
-| <img src="{{site.baseurl}}/uploads/img/meet2025/LOGO_AIGEO_colori_small.png" width="150px" /> |   Italian Association for Physical Geography and Geomorphology ([https://www.aigeo.it/](https://www.aigeo.it/)) | 
-| <img src="{{site.baseurl}}/uploads/img/meet2025/logo-progeo.jpg" width="150px" /> |               ProGEO - International Association for the conservation of geological heritage ([http://www.progeo.ngo/](http://www.progeo.ngo/)) | 
-| <img src="{{site.baseurl}}/uploads/img/meet2025/demix_banner_esa.png" width="350px" /> |           DEMIX initiative | 
-| <img src="{{site.baseurl}}/uploads/img/meet2025/FundedbytheEU_urgere.png" width="350px" /> |      Project “URGERE: URban Geodiversity for a Resilient Environment” 2022M7EP3M_PE150pxPRIN2022 - PNRR M4.C2.1.1 - Funded by the European Union – Next Generation EU - CUP: B53D23007260006 ([https://urgere-project.irpi.cnr.it/](https://urgere-project.irpi.cnr.it/))| 
-| <img src="{{site.baseurl}}/uploads/img/meet2025/logo_LEB.png" width="150px" /> |                  Consorzio di Bonifica Lessinio Euganeo Berico - LEB ([https://consorzioleb.it/](https://consorzioleb.it/))  | 
-| <img src="{{site.baseurl}}/uploads/img/meet2025/logo_SGI.png" width="150px" /> |                  The Italian society for Geology ([https://www.socgeol.it/](https://www.socgeol.it/)) | 
-| <img src="{{site.baseurl}}/uploads/img/meet2025/logo_AIGAA.jpg" width="150px" /> |                The Italian Association for Applied and Environmental Geology ([https://www.aigaa.org](https://www.aigaa.org))  | 
+| <img src="{{site.baseurl}}/uploads/img/meet2025/logos_page/Logo-irpi-cnr-new.png" width="150px" /> | Research Institute for Hydro-Geological Protection - National Research Council ([https://www.irpi.cnr.it/](https://www.irpi.cnr.it/)) | 
+| <img src="{{site.baseurl}}/uploads/img/meet2025/logos_page/004-Unipg_marchio.png" width="150px" /> |         Department of Physics and Geology - University of Perugia ([https://www.unipg.it/en/](https://www.unipg.it/en/)) | 
+| <img src="{{site.baseurl}}/uploads/img/meet2025/logos_page/LOGO_AIGEO_colori_small.png" width="150px" /> |   Italian Association for Physical Geography and Geomorphology ([https://www.aigeo.it/](https://www.aigeo.it/)) | 
+| <img src="{{site.baseurl}}/uploads/img/meet2025/logos_page/logo-progeo.jpg" width="150px" /> |               ProGEO - International Association for the conservation of geological heritage ([http://www.progeo.ngo/](http://www.progeo.ngo/)) | 
+| <img src="{{site.baseurl}}/uploads/img/meet2025/logos_page/demix_banner_esa.png" width="350px" /> |           DEMIX initiative | 
+| <img src="{{site.baseurl}}/uploads/img/meet2025/logos_page/FundedbytheEU_urgere.png" width="350px" /> |      Project “URGERE: URban Geodiversity for a Resilient Environment” 2022M7EP3M_PE150pxPRIN2022 - PNRR M4.C2.1.1 - Funded by the European Union – Next Generation EU - CUP: B53D23007260006 ([https://urgere-project.irpi.cnr.it/](https://urgere-project.irpi.cnr.it/))| 
+| <img src="{{site.baseurl}}/uploads/img/meet2025/logos_page/logo_LEB.png" width="150px" /> |                  Consorzio di Bonifica Lessinio Euganeo Berico - LEB ([https://consorzioleb.it/](https://consorzioleb.it/))  | 
+| <img src="{{site.baseurl}}/uploads/img/meet2025/logos_page/logo_SGI.png" width="150px" /> |                  The Italian society for Geology ([https://www.socgeol.it/](https://www.socgeol.it/)) | 
+| <img src="{{site.baseurl}}/uploads/img/meet2025/logos_page/logo_AIGAA.jpg" width="150px" /> |                The Italian Association for Applied and Environmental Geology ([https://www.aigaa.org](https://www.aigaa.org))  | 
 
 
 ### Commercial Partners
 
-| <img src="{{site.baseurl}}/uploads/img/meet2025/logo_T4E.jpg" width="100px" />  | T4E S.R.L. | 
-| <img src="{{site.baseurl}}/uploads/img/meet2025/Logo_pucciufficio_dark.jpg" width="100px" /> |  PUCCIUFFICIO - Digital Innovation ([https://www.pucciufficio.com/](https://www.pucciufficio.com/)) | 
+| <img src="{{site.baseurl}}/uploads/img/meet2025/logos_page/logo_T4E.jpg" width="100px" />  | T4E S.R.L. | 
+| <img src="{{site.baseurl}}/uploads/img/meet2025/logos_page/Logo_pucciufficio_dark.jpg" width="100px" /> |  PUCCIUFFICIO - Digital Innovation ([https://www.pucciufficio.com/](https://www.pucciufficio.com/)) | 
 
 <br>
 

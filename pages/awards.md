@@ -16,13 +16,18 @@ At each conference, registered participants (and scientific committee members) r
 **BEST PAPER and LIFETIME ACHIEVEMENTS AWARDS SO FAR:**
 
 
+### 2025
+- **Alvioli, M., Marchesini, I.** [Automatic optimization and multi-scale delineation of nested slope units with r.slopeunits v2.0](https://doi.org/10.5281/zenodo.15274445) (best paper award)  
+-  **Ioniță, A., Drăguț, L.** [Introducing the Geomorphometric Atlas of Romania: A Publicly Available Database of Landform Classifications and Land-Surface Variables based on FABDEM](https://doi.org/10.5281/zenodo.15263730) (best student paper award)  
+- **David Tarboton** [(Life Achievement Award)]({{site.baseurl}}/uploads/pdf/pdf2025/Geomorphometry_2025_Tarboton.pdf)  
+
 ### 2023
-- **Lindsay, J.** [The time-in-daylight land-surface parameter](https://doi.org/10.5281/zenodo.7879601) (best paper award)
+- **Lindsay, J.** [The time-in-daylight land-surface parameter](https://doi.org/10.5281/zenodo.7879601) (best paper award)  
 -  **Rusinko, A., Minár, J.** [The role of geomorphometric predictors in LUCC modeling](https://doi.org/10.5281/zenodo.7821717) (best student paper award)  
 - **John Wilson** (Life Achievement Award)  
 
 ### 2021
-- **Alvioli, M., Santangelo, M., Fiorucci, F., Cardinali, M., Marchesini, I., Reichenbach, P., Rossi, M.** [A data-driven method for assessing the probability for terrain grid cells of initiating rockfalls on a large area](https://doi.org/10.30437/GEOMORPHOMETRY2020_43) (best paper award)
+- **Alvioli, M., Santangelo, M., Fiorucci, F., Cardinali, M., Marchesini, I., Reichenbach, P., Rossi, M.** [A data-driven method for assessing the probability for terrain grid cells of initiating rockfalls on a large area](https://doi.org/10.30437/GEOMORPHOMETRY2020_43) (best paper award)  
 - **Pinton, D., Canestrellli, A., Angelini, C., Wilkinson, B., Ifju, P. Ortega, A.**  [Estimating the spatial distribution of vegetation height and ground level elevation in a mesotidal salt marsh from UAV LiDAR derived point cloud](https://doi.org/10.30437/GEOMORPHOMETRY2020_33) (best student paper award)
 - **Michael Hutchinson** [(Life Achievement Award)](https://zenodo.org/records/5504437)   
 
