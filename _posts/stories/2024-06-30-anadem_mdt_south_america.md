@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ANADEM: A Digital Terrain Model for South America"
-date: "2024-06-30"
+date: "2025-07-15"
 tags: [story,srtm,aster,alos,fabdem,nasadem,copdem,copernicus,demix,dataset]
 published: true
 image: false
@@ -23,5 +23,6 @@ ANADEM can be downloaded at [https://hge-iph.github.io/anadem/](https://hge-iph.
 
 
 ![]({{site.baseurl}}/uploads/img/posts/anadem_figure_difference_amazon_.png)
+
 
 
