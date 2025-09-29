@@ -1,14 +1,6 @@
 style: is-light has-text-link
 height: is-small
 items:
-  - title: Geomorphometry 2025
-    subtitle: 
-    icon: mdi mdi-presentation-play
-    description: >
-      Updates for our next meeting!
-    call_to_action_name: Can't wait!
-    call_to_action_link: /2025/
-
   - title: ISG Coffee Talks
     subtitle: 
     icon: fa-solid fa-mug-saucer
@@ -26,3 +18,11 @@ items:
       on our blog.
     call_to_action_name: Sure!
     call_to_action_link: /blog/
+
+  - title: Geomorphometry Conference
+    subtitle: 
+    icon: mdi mdi-presentation-play
+    description: >
+      A report of our last meeting
+    call_to_action_name: Take me there!
+    call_to_action_link: /2025/
