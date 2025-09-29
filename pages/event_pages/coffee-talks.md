@@ -21,6 +21,7 @@ Proposals for topics can be sent anytime to the Email [geomorphometry.org@gmail.
 &nbsp;
 
 **Schedule**  
+
 |2025-12-03 | Hawker, Uhe, Lucas - University of Bristol & Fathom, UK <br> [The latest global terrain map - FathomDEM][] <br> Recording will be available in our [YouTube channel][]|
 |2025-10-01 | Dr. Liyang Xiong  - Nanjing Normal University, China <br> [Recent Research Progress in Geomorphometry in China][pdf_Liyang] <br> Recording will be available in our [YouTube channel][]|
 |2025-05-07 | Yu-Feng Ho  - OpenGeoHub, Netherlands <br> [Optimizing Big data ML in a HPC: global digital terrain modeling and canopy height mapping 2000-2022+ using ICESat-2, GEDI and spatiotemporal ML][pdf_yufeng] <br> Recording available in our [YouTube channel][video_yufeng]|
