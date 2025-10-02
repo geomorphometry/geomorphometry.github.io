@@ -22,8 +22,8 @@ Proposals for topics can be sent anytime to the Email [geomorphometry.org@gmail.
 
 **Schedule**  
 
-|2025-12-03 | Hawker, Uhe, Lucas - University of Bristol & Fathom, UK <br> [The latest global terrain map - FathomDEM][] <br> Recording will be available in our [YouTube channel][]|
-|2025-10-01 | Dr. Liyang Xiong  - Nanjing Normal University, China <br> [Recent Research Progress in Geomorphometry in China][pdf_Liyang] <br> Recording will be available in our [YouTube channel][]|
+|2025-12-03 | Hawker, Uhe, Lucas - University of Bristol & Fathom, UK <br> The latest global terrain map - FathomDEM <br> Recording will be available in our [YouTube channel][video_laurence2]|
+|2025-10-01 | Dr. Liyang Xiong  - Nanjing Normal University, China <br> [Recent Research Progress in Geomorphometry in China][pdf_Liyang] <br> Recording available in our [YouTube channel][video_liyang]|
 |2025-05-07 | Yu-Feng Ho  - OpenGeoHub, Netherlands <br> [Optimizing Big data ML in a HPC: global digital terrain modeling and canopy height mapping 2000-2022+ using ICESat-2, GEDI and spatiotemporal ML][pdf_yufeng] <br> Recording available in our [YouTube channel][video_yufeng]|
 |2025-04-02 | Dr. Wolfgang Schwanghart - University Potsdam, Germany <br> [Quantitative interrogation of DEMs using TopoToolbox][pdf_wolfgang] <br> Recording available in our [YouTube channel][video_wolfgang]|
 |2025-02-05 | Dr. Guiseppe Amatulli - Spatial Ecology, Italy <br> [Hydrography90m: pushing the boundaries of computational hydrology][pdf_guiseppe] <br> Recording available in our [YouTube channel][video_giuseppe]|
@@ -45,12 +45,16 @@ Proposals for topics can be sent anytime to the Email [geomorphometry.org@gmail.
 [pdf_johnlindsay]: <{{site.baseurl}}/uploads/pdf/gct/CoffeeTalk_JohnLindsay_07.12.2022.pdf>
 [pdf_laurence]: <{{site.baseurl}}/uploads/pdf/gct/CoffeeTalk_LaurenceHawker_05.10.2022.pdf>
 
+[video_laurence2]: <https://www.youtube.com/@geomorphometry>
+[video_liyang]: <https://youtu.be/p2kKiAg_8ZM>
 [video_yufeng]: <https://youtu.be/iVGgGJ8-Ods>
-[video_wolfgang]: <https://www.youtube.com/watch?v=HBsrmeaO3gY>
-[video_giuseppe]: <https://www.youtube.com/watch?v=_9D0jzHCOEA>
-[video_ernest]: <https://www.youtube.com/watch?v=hDer5pnmR8M>
-[video_sebastiano]: <https://www.youtube.com/watch?v=UfIBlZ2WhIM>
-[video_peterstrobl]: <https://www.youtube.com/watch?v=b-NGX-RTJUo>
-[video_tomhengl]: <https://www.youtube.com/watch?v=EkHM8bP1CZM>
-[video_johnlindsay]: <https://www.youtube.com/watch?v=ypuvjM8ijSM>
-[video_laurence]: <https://www.youtube.com/watch?v=aWZ9C9ZziE4>
+[video_wolfgang]: <https://youtu.be/HBsrmeaO3gY>
+[video_giuseppe]: <https://youtu.be/_9D0jzHCOEA>
+[video_ernest]: <https://youtu.be/hDer5pnmR8M>
+[video_sebastiano]: <https://youtu.be/UfIBlZ2WhIM>
+[video_peterstrobl]: <https://youtu.be/b-NGX-RTJUo>
+[video_tomhengl]: <https://youtu.be/EkHM8bP1CZM>
+[video_johnlindsay]: <https://youtu.be/ypuvjM8ijSM>
+[video_laurence]: <https://youtu.be/aWZ9C9ZziE4>
+
+
