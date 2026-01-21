@@ -22,7 +22,7 @@ Proposals for topics can be sent anytime to the Email [geomorphometry.org@gmail.
 
 **Schedule**  
 
-|2025-12-03 | Hawker, Uhe, Lucas - University of Bristol & Fathom, UK <br> The latest global terrain map - FathomDEM <br> Recording will be available in our [YouTube channel][video_laurence2]|
+|2026-01-20 | Dr. Chris Lucas - Fathom, UK <br> FathomDEM, a new global 30 m DTM <br> Recording available in our [YouTube channel][video_chrislucas]|
 |2025-10-01 | Dr. Liyang Xiong  - Nanjing Normal University, China <br> [Recent Research Progress in Geomorphometry in China][pdf_Liyang] <br> Recording available in our [YouTube channel][video_liyang]|
 |2025-05-07 | Yu-Feng Ho  - OpenGeoHub, Netherlands <br> [Optimizing Big data ML in a HPC: global digital terrain modeling and canopy height mapping 2000-2022+ using ICESat-2, GEDI and spatiotemporal ML][pdf_yufeng] <br> Recording available in our [YouTube channel][video_yufeng]|
 |2025-04-02 | Dr. Wolfgang Schwanghart - University Potsdam, Germany <br> [Quantitative interrogation of DEMs using TopoToolbox][pdf_wolfgang] <br> Recording available in our [YouTube channel][video_wolfgang]|
@@ -34,6 +34,7 @@ Proposals for topics can be sent anytime to the Email [geomorphometry.org@gmail.
 |2022-12-07 | Prof. John Lindsay - University of Guelph <br> [WhiteBox for Geomorphometry][pdf_johnlindsay] <br> Recording available in our [YouTube channel][video_johnlindsay] |
 |2022-10-05 | Dr. Laurence Hawker - University of Bristol <br> [How fab is FABDEM?][pdf_laurence] <br> Recording available in our [YouTube channel][video_laurence] |
 
+[video_chrislucas]: <{{site.baseurl}}/uploads/pdf/gct/CoffeeTalk_ChrisLucas_Jan.20.2026.pdf>
 [pdf_Liyang]: <{{site.baseurl}}/uploads/pdf/gct/CoffeeTalk_LiyangXiong_Oct.01.2025.pdf>
 [pdf_yufeng]: <{{site.baseurl}}/uploads/pdf/gct/CoffeeTalk_Yu-FengHo_07.05.2025.pdf>
 [pdf_wolfgang]: <{{site.baseurl}}/uploads/pdf/gct/CoffeeTalk_WolfgangSchwanghart_02.04.2025.pdf>
@@ -45,7 +46,8 @@ Proposals for topics can be sent anytime to the Email [geomorphometry.org@gmail.
 [pdf_johnlindsay]: <{{site.baseurl}}/uploads/pdf/gct/CoffeeTalk_JohnLindsay_07.12.2022.pdf>
 [pdf_laurence]: <{{site.baseurl}}/uploads/pdf/gct/CoffeeTalk_LaurenceHawker_05.10.2022.pdf>
 
-[video_laurence2]: <https://www.youtube.com/@geomorphometry>
+[video_willlbeavailable]: <https://www.youtube.com/@geomorphometry>
+[video_chrislucas]: <https://youtu.be/styhRiQdRPo>
 [video_liyang]: <https://youtu.be/p2kKiAg_8ZM>
 [video_yufeng]: <https://youtu.be/iVGgGJ8-Ods>
 [video_wolfgang]: <https://youtu.be/HBsrmeaO3gY>
