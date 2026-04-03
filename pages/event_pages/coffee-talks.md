@@ -16,13 +16,14 @@ This platform would be as open as possible to engage with each other and reach o
 
 Each coffee talk will be featuring an initial 15-20 minute discussion in a Zoom meeting, followed by an open exchange/discussion. The session will conclude at 60 minutes with a short wrap-up of the session by the session moderator. Links to the recorded sessions (if permitted by presenters) will be available at the ISG Website. The ISG Board will draw up a list of topics for a series for a year. Announcements of session topics will be at the website and the social media accounts of the ISG.
 
-Proposals for topics can be sent anytime to the Email [geomorphometry.org@gmail.com](mailto:geomorphometry.org@gmail.com) to be included in the schedule. The date is the first Wednesday of every second month at 15:00 CET to allow worldwide participation.
+Proposals for topics can be sent anytime to the Email [geomorphometry.org@gmail.com](mailto:geomorphometry.org@gmail.com) to be included in the schedule. The date usually is the first Wednesday of every month at 15:00 CET to allow worldwide participation.
 
 &nbsp;
 
 **Schedule**  
 
-|2026-01-20 | Dr. Chris Lucas - Fathom, UK <br> FathomDEM, a new global 30 m DTM <br> Recording available in our [YouTube channel][video_chrislucas]|
+|2026-04-01 | Dr. Corey White - Center for Geospatial Analytics at NCSU <br> [Geomorphometry in GRASS][pdf_coreywhite] <br> Recording available in our [YouTube channel][video_coreywhite]|
+|2026-01-20 | Dr. Chris Lucas - Fathom, UK <br> [FathomDEM, a new global 30 m DTM][pdf_chrislucas] <br> Recording available in our [YouTube channel][video_chrislucas]|
 |2025-10-01 | Dr. Liyang Xiong  - Nanjing Normal University, China <br> [Recent Research Progress in Geomorphometry in China][pdf_Liyang] <br> Recording available in our [YouTube channel][video_liyang]|
 |2025-05-07 | Yu-Feng Ho  - OpenGeoHub, Netherlands <br> [Optimizing Big data ML in a HPC: global digital terrain modeling and canopy height mapping 2000-2022+ using ICESat-2, GEDI and spatiotemporal ML][pdf_yufeng] <br> Recording available in our [YouTube channel][video_yufeng]|
 |2025-04-02 | Dr. Wolfgang Schwanghart - University Potsdam, Germany <br> [Quantitative interrogation of DEMs using TopoToolbox][pdf_wolfgang] <br> Recording available in our [YouTube channel][video_wolfgang]|
@@ -34,7 +35,8 @@ Proposals for topics can be sent anytime to the Email [geomorphometry.org@gmail.
 |2022-12-07 | Prof. John Lindsay - University of Guelph <br> [WhiteBox for Geomorphometry][pdf_johnlindsay] <br> Recording available in our [YouTube channel][video_johnlindsay] |
 |2022-10-05 | Dr. Laurence Hawker - University of Bristol <br> [How fab is FABDEM?][pdf_laurence] <br> Recording available in our [YouTube channel][video_laurence] |
 
-[video_chrislucas]: <{{site.baseurl}}/uploads/pdf/gct/CoffeeTalk_ChrisLucas_Jan.20.2026.pdf>
+[pdf_coreywhite]: <{{site.baseurl}}/uploads/pdf/gct/CoffeeTalk_CoreyWhite_Apr.01.2026.pdf>
+[pdf_chrislucas]: <{{site.baseurl}}/uploads/pdf/gct/CoffeeTalk_ChrisLucas_Jan.20.2026.pdf>
 [pdf_Liyang]: <{{site.baseurl}}/uploads/pdf/gct/CoffeeTalk_LiyangXiong_Oct.01.2025.pdf>
 [pdf_yufeng]: <{{site.baseurl}}/uploads/pdf/gct/CoffeeTalk_Yu-FengHo_07.05.2025.pdf>
 [pdf_wolfgang]: <{{site.baseurl}}/uploads/pdf/gct/CoffeeTalk_WolfgangSchwanghart_02.04.2025.pdf>
@@ -47,6 +49,7 @@ Proposals for topics can be sent anytime to the Email [geomorphometry.org@gmail.
 [pdf_laurence]: <{{site.baseurl}}/uploads/pdf/gct/CoffeeTalk_LaurenceHawker_05.10.2022.pdf>
 
 [video_willlbeavailable]: <https://www.youtube.com/@geomorphometry>
+[video_coreywhite]: <https://youtu.be/4la_zOc6OG8>
 [video_chrislucas]: <https://youtu.be/styhRiQdRPo>
 [video_liyang]: <https://youtu.be/p2kKiAg_8ZM>
 [video_yufeng]: <https://youtu.be/iVGgGJ8-Ods>
