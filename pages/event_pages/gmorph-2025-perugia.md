@@ -35,7 +35,7 @@ show_sidebar: false
 <br>
 
 ## Proceedings book
-**SOON**
+M. Alvioli, L. Melelli, I. Marchesini, (2026). Proceedings of Geomorphometry 2025, 9-13 June, Perugia, Italy. CNR Edizioni, Rome. ISBN 978-88-8080-765-0. [https://doi.org/10.30437/gmft25pg](https://doi.org/10.30437/gmft25pg)   
 
 <br>
 
