@@ -7,7 +7,7 @@ published: true
 image: false
 ---
 
-#First round of the DEMIX exercise published final report
+First round of the DEMIX exercise published final report
 
 Global digital elevation models (DEMs) have become routine operational inputs across mapping, environmental monitoring, modelling and Earth-observation workflows. Their broad coverage and global availability have made them data that many practitioners simply take for granted. But knowledge of the terrain and topography of Earth’s surface is fundamental for monitoring and understanding terrestrial ecosystems and the planet’s habitability. For that reason, the CEOS Working Group on Calibration and Validation (WGCV) maintains a subgroup dedicated to digital topography and the quality of DEMs, the ‘Terrain Mapping Sub-Group (TMSG). 
 
@@ -43,7 +43,8 @@ Global DEMs are indispensable operational geospatial datasets, but they should n
 
 Read more in the [DEMIX Final Report](https://dx.doi.org/10.2760/3121340), or see other DEMIX publications below - mainly by our ISG members:
 
-        Benchmarking Elevation Plus Land Surface Parameters Finds FathomDEM and Copernicus DEM Win as Best Global DEMs (2025) and subsequent discussion (2026a, 2026b)
-        Novel Approach for Ranking DEMs: Copernicus DEM Improves One Arc Second Open Global Topography (2024)
-        Digital Elevation Models: Terminology and Definitions (2021)
-        The Digital Elevation Model Intercomparison eXperiment DEMIX, a community-based approach at global DEM benchmarking (2021)
+- Benchmarking Elevation Plus Land Surface Parameters Finds FathomDEM and Copernicus DEM Win as Best Global DEMs ([2025][https://doi.org/10.3390/rs17233919]) and subsequent discussion ([2026a][https://doi.org/10.3390/rs18142382], [2026b][http://dx.doi.org/10.3390/rs18142399])  
+- Ranking of 10 Global One-Arc-Second DEMs Reveals Limitations in Terrain Morphology Representation [2025][https://doi.org/10.3390/rs16173273]  
+- Novel Approach for Ranking DEMs: Copernicus DEM Improves One Arc Second Open Global Topography ([2024][https://doi.org/10.1109/TGRS.2024.3368015])  
+- Digital Elevation Models: Terminology and Definitions ([2021][http://dx.doi.org/10.3390/rs13183581])  
+- The Digital Elevation Model Intercomparison eXperiment DEMIX, a community-based approach at global DEM benchmarking ([2021][10.5194/isprs-archives-XLIII-B4-2021-395-2021])  

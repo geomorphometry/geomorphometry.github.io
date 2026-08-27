@@ -22,6 +22,7 @@ Proposals for topics can be sent anytime to the Email [geomorphometry.org@gmail.
 
 **Schedule**  
 
+|2026-09-02 | Paul Mead - GeoNadir <br> [Building the world's largest repository of FAIR drone mapping data][pdf_paulmead] <br> Recording will be available in our [YouTube channel][video_willlbeavailable]|
 |2026-04-01 | Dr. Corey White - Center for Geospatial Analytics at NCSU <br> [Geomorphometry in GRASS][pdf_coreywhite] <br> Recording available in our [YouTube channel][video_coreywhite]|
 |2026-01-20 | Dr. Chris Lucas - Fathom, UK <br> [FathomDEM, a new global 30 m DTM][pdf_chrislucas] <br> Recording available in our [YouTube channel][video_chrislucas]|
 |2025-10-01 | Dr. Liyang Xiong  - Nanjing Normal University, China <br> [Recent Research Progress in Geomorphometry in China][pdf_Liyang] <br> Recording available in our [YouTube channel][video_liyang]|
@@ -35,6 +36,7 @@ Proposals for topics can be sent anytime to the Email [geomorphometry.org@gmail.
 |2022-12-07 | Prof. John Lindsay - University of Guelph <br> [WhiteBox for Geomorphometry][pdf_johnlindsay] <br> Recording available in our [YouTube channel][video_johnlindsay] |
 |2022-10-05 | Dr. Laurence Hawker - University of Bristol <br> [How fab is FABDEM?][pdf_laurence] <br> Recording available in our [YouTube channel][video_laurence] |
 
+[pdf_paulmead]: <{{site.baseurl}}/uploads/pdf/gct/CoffeeTalk_PaulMead_Sept.2.2026.pdf>
 [pdf_coreywhite]: <{{site.baseurl}}/uploads/pdf/gct/CoffeeTalk_CoreyWhite_Apr.01.2026.pdf>
 [pdf_chrislucas]: <{{site.baseurl}}/uploads/pdf/gct/CoffeeTalk_ChrisLucas_Jan.20.2026.pdf>
 [pdf_Liyang]: <{{site.baseurl}}/uploads/pdf/gct/CoffeeTalk_LiyangXiong_Oct.01.2025.pdf>

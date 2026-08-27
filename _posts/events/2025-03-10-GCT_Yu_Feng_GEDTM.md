@@ -7,7 +7,7 @@ published: true
 image: false
 ---
 
-**Building Global Ensemble Terrain Model and Derivatives in 30m (GEDTM30): Towards a Open Science Community**
+**Building Global Ensemble Terrain Model and Derivatives in 30m (GEDTM30): Towards an Open Science Community**
 
 
 
