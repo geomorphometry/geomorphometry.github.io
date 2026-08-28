@@ -61,5 +61,8 @@ The final set of contributions highlights applications related to georesources a
 From the Introduction of the volume: M. Alvioli, L. Melelli, I. Marchesini, (2026). Proceedings of Geomorphometry 2025, 9-13 June, Perugia, Italy. CNR Edizioni, Rome. ISBN 978 88 8080 765 0. DOI: https://doi.org/10.30437/gmft25pg  
 
 
+Original Conference Website: [https://www.geomorphometry2025.org](https://www.geomorphometry2025.org)
+
+
 ![]({{site.baseurl}}/uploads/img/posts/Geomorphometry2025_Group_Photo.jpg)  
 It was really hot but were happy!
