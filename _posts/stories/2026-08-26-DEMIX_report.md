@@ -43,8 +43,8 @@ Global DEMs are indispensable operational geospatial datasets, but they should n
 
 Read more in the [DEMIX Final Report](https://dx.doi.org/10.2760/3121340), or see other DEMIX publications below - mainly by our ISG members:
 
-- Benchmarking Elevation Plus Land Surface Parameters Finds FathomDEM and Copernicus DEM Win as Best Global DEMs ([2025][https://doi.org/10.3390/rs17233919]) and subsequent discussion ([2026a][https://doi.org/10.3390/rs18142382], [2026b][http://dx.doi.org/10.3390/rs18142399])  
-- Ranking of 10 Global One-Arc-Second DEMs Reveals Limitations in Terrain Morphology Representation [2025][https://doi.org/10.3390/rs16173273]  
-- Novel Approach for Ranking DEMs: Copernicus DEM Improves One Arc Second Open Global Topography ([2024][https://doi.org/10.1109/TGRS.2024.3368015])  
-- Digital Elevation Models: Terminology and Definitions ([2021][http://dx.doi.org/10.3390/rs13183581])  
-- The Digital Elevation Model Intercomparison eXperiment DEMIX, a community-based approach at global DEM benchmarking ([2021][10.5194/isprs-archives-XLIII-B4-2021-395-2021])  
+- Benchmarking Elevation Plus Land Surface Parameters Finds FathomDEM and Copernicus DEM Win as Best Global DEMs ([2025](https://doi.org/10.3390/rs17233919])) and subsequent discussion ([2026a](https://doi.org/10.3390/rs18142382), [2026b](http://dx.doi.org/10.3390/rs18142399))  
+- Ranking of 10 Global One-Arc-Second DEMs Reveals Limitations in Terrain Morphology Representation [2025](https://doi.org/10.3390/rs16173273)  
+- Novel Approach for Ranking DEMs: Copernicus DEM Improves One Arc Second Open Global Topography ([2024](https://doi.org/10.1109/TGRS.2024.3368015))  
+- Digital Elevation Models: Terminology and Definitions ([2021](http://dx.doi.org/10.3390/rs13183581))  
+- The Digital Elevation Model Intercomparison eXperiment DEMIX, a community-based approach at global DEM benchmarking ([2021](https://doi.org/10.5194/isprs-archives-XLIII-B4-2021-395-2021))  
