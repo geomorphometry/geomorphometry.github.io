@@ -7,6 +7,43 @@ hero_darken: true
 show_sidebar: false
 ---
 
+### The American Geophysical Union annual meeting - AGU 2026, 7-11 December, San Francisco, USA
+**Session title: Integrated Remote Sensing, Geomorphometry, and AI for Monitoring Earth Surface Processes and Environmental Change**  
+**Convener: Kashif Mahmud (Midwestern State University)**  
+**Co-conveners: Simone Bizzi (University of Padova), Misha Krassovski (Oak Ridge National Laboratory), Massimiliano Alvioli (CNR-GEO), Rafael J P Schmitt (UC Santa Barbara)**  
+
+Advances in remote sensing, UAS, LiDAR, digital elevation models, geomorphometry, data fusion, and AI are rapidly enhancing our ability to monitor and understand Earth surface processes and environmental change. This session welcomes contributions that develop or apply innovative geospatial, geomorphometric, and AI-driven approaches to characterize landscape dynamics, freshwater systems, and human-environment interactions across scales. Topics include remote sensing and Earth observation, terrain analysis, change detection, data fusion, machine learning, field and model integration, and the assessment of natural and anthropogenic impacts on geomorphic and environmental systems. Interdisciplinary studies that advance methods, applications, and environmental decision-making are particularly encouraged.
+
+
+<br>
+<br>
+
+### The Asia Oceania Geosciences Society annual meeting - AOGS 2026, 2-7 August, Fukuoka, Japan  
+**Session title: Novel Data, Methods and Applications in Geomorphometry**  
+**Convener: Massimiliano ALVIOLI (Consiglio Nazionale delle Ricerche, CNR-GEO)**  
+**Co-conveners: Mio KASAI (Research Faculty of Agriculture, Hokkaido Univ., Japan) & Takashi OGUCHI (The University of Tokyo)**  
+[Link to session IG38:](https://www.asiaoceania.org/AOGS2026/Master-Program)
+
+Geomorphometry is the interdisciplinary science and practice of quantitative land surface analysis, aimed at describing the shape of the Earth’s surface, and its effects on human and natural geography.  
+Geomorphometry and geomorphological mapping are essential ways for understanding landscape processes and dynamics on Earth and other planetary bodies. The rapid growth of available geospatial data opens up considerable possibilities for morphometric analysis from mapping landforms to understanding the underlying processes. It also presents unique challenges in data processing and analysis.  
+The typical input to geomorphometric analysis is a square-grid representation of the land surface - a digital elevation model (DEM). Global DEMs and the increasing availability of LiDAR and SfM high-resolution DEMs call for analytical methods and advanced geo-computation techniques to cope with diverse applications. Point clouds have increasing accuracy over complex scenes, characterized by high topographic variation in three (and four) dimensions, generating a shift in geomorphologists’ work.  
+We invite contributions from all disciplines, including geomorphology, planetary science, natural hazards, computer science, and Earth observation, advanced geo-computation methods, including high-performance and parallel computing implementations, focusing on but not limited to:  
+- Applications of Digital Elevation, Terrain, Surface Models and Point Clouds
+- Utilization of high-resolution LiDAR, photogrammetry, and satellite data
+- Automated surface analysis, machine learning, new algorithms
+- Morphometry of Earth and planetary surfaces, including surface change
+- Geomorphometry methods for hydrology
+- Techniques for collecting and deriving geospatial data products
+- Mapping and morphometric analysis of landforms and landscapes
+- Modeling natural hazards on terrestrial, marine and planetary surfaces
+- Geomorphometry applications in urban planning and cultural heritage
+We encourage contributions highlighting scientific, professional, and industrial applications, including software development and toolkits that facilitate the practical use of geomorphometric techniques.
+
+
+<br>
+<br>
+
+
 ### EGU 2024 - Novel data, methods and applications in Geomorphometry   
 **Convener: Massimiliano Alvioli**   
 **Co-conveners:** Giulia Sofia, John K. Hillier, Stuart Grieve, Mihai Niculita  
