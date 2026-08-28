@@ -2,7 +2,7 @@
 layout: post
 title: "Summary of Geomorphometry 2025"
 date: "2025-08-01"
-tags: [story,event,Iasi,Romania]
+tags: [story,event,Perugia,Italy]
 published: true
 image: false
 ---
@@ -58,11 +58,11 @@ Advances in physical geomorphometry are further discussed by Minár et al., whil
 
 The final set of contributions highlights applications related to georesources and geoheritage. Zwoliński et al. address in his keynote talk geodiversity assessment, Burnelli et al. propose a geomorphodiversity index at national scale, Negri et al. discuss geomorphometry in the context of geoparks, Calderón et al. focus on mapping and reconstruction of pre-anthropogenic topography, Moudrý et al. present a global assessment of mining activities, and Solarski et al. analyze mining-related landscape changes using historical cartography.  
 
-From the Introduction of the volume: M. Alvioli, L. Melelli, I. Marchesini, (2026). Proceedings of Geomorphometry 2025, 9-13 June, Perugia, Italy. CNR Edizioni, Rome. ISBN 978 88 8080 765 0. DOI: https://doi.org/10.30437/gmft25pg  
+From the Introduction of the volume: M. Alvioli, L. Melelli, I. Marchesini, (2026). Proceedings of Geomorphometry 2025, 9-13 June, Perugia, Italy. CNR Edizioni, Rome. ISBN 978 88 8080 765 0. DOI: [https://doi.org/10.30437/gmft25pg](https://doi.org/10.30437/gmft25pg)  
 
 
 Original Conference Website: [https://www.geomorphometry2025.org](https://www.geomorphometry2025.org)
 
 
-![]({{site.baseurl}}/uploads/img/posts/Geomorphometry2025_Group_Photo.jpg)  
+![]({{site.baseurl}}/uploads/img/posts/Geomorphometry2025_Group_Photo_thumb.jpg)  
 It was really hot but were happy!

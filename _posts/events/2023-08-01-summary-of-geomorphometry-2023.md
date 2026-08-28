@@ -24,5 +24,5 @@ Overall, Geomorphometry 2023 provided a comprehensive platform for scientific ex
 
 
 
-![]({{site.baseurl}}/uploads/img/posts/Geomorphometry2023_Group_Photo-768x596.png)  
+![]({{site.baseurl}}/uploads/img/posts/Geomorphometry2023_Group_Photo.png)  
 Happy faces from all around the world

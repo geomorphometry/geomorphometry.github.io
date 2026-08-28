@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Coffee Talk - GeoNadir"
-date: "2025-03-11"
+date: "2026-08-25"
 tags: [story,event,gct,Coffee-Talk]
 published: true
 image: false
