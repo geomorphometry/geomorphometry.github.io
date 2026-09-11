@@ -9,15 +9,15 @@ items:
     call_to_action_name: Tell me more!
     call_to_action_link: /coffee_talks/
     
-  - title: Blog posts
+  - title: Geomorphometry Book
     subtitle: 
-    icon: fa-regular fa-file-lines
+    icon: fa-regular fa-book
     icon_brand: false
     description: >
-      Check the latest posts
-      on our blog.
-    call_to_action_name: Sure!
-    call_to_action_link: /blog/
+      The second edition of the
+      Big Blue Book is ready!
+    call_to_action_name: I want it!
+    call_to_action_link: /book/
 
   - title: Geomorphometry Conference
     subtitle: 
@@ -26,3 +26,13 @@ items:
       A report of our last meeting
     call_to_action_name: Take me there!
     call_to_action_link: /2025/
+
+    # - title: Blog posts
+    # subtitle: 
+    # icon: fa-regular fa-file-lines
+    # icon_brand: false
+    # description: >
+    #   Check the latest posts
+    #   on our blog.
+    # call_to_action_name: Sure!
+    # call_to_action_link: /blog/

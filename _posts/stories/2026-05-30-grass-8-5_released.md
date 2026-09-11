@@ -17,7 +17,7 @@ GRASS 8.5.0 is here. This feature release contains more than 2570 changes, the r
 This is also the first release under our refreshed branding, aligned with OSGeo’s branding. The project has readopted its original name, GRASS, with a new logo and visual identity.
 
 
-See the [full announcement here.]((https://grass.osgeo.org/news/2026_05_08_grass_8_5_0_released/))
+See the [full announcement here.](https://grass.osgeo.org/news/2026_05_08_grass_8_5_0_released)
 
 
 

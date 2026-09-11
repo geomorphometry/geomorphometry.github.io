@@ -34,27 +34,6 @@ The purpose of this website is:
 - To serve as a scientific reference for the field of geomorphometry;
 - To promote international conferences on geomorphometry and digital terrain analysis, initially every two years;
 
-The website is completely designed to support interactive exchange of information. The registered users can upload and rate articles, scripts and maps; load announcements of events and new open positions and edit their personal profiles. If you experience problems with uploading your materials or with logging in, you should contact the web-administrator. Note that, if your problem is due to an error in code or problems with the server, it might take even few days until we solve it. This website is maintained on voluntary basis. See also the official [**disclaimer**]({{site.baseurl}}/about/disclaimer/).
+This website is maintained on voluntary basis. See also the official [**disclaimer**]({{site.baseurl}}/disclaimer/).
 
-
-[![]({{site.baseurl}}/uploads/img/books/9780123743459.jpg)](https://geomorphometry.org/geomorphometry-concepts-software-applications/)
-
-Geomorphometry: Concepts, Software, Applications
-
-[![]({{site.baseurl}}/uploads/img/books/9780387685748.jpg)](https://www.amazon.com/gp/reader/038735767X)
-
-Open Source GIS: A GRASS GIS Approach 3rd Edition
-
-[![]({{site.baseurl}}/uploads/img/books/9783540777991.jpg)](https://www.amazon.com/gp/reader/3540777997)
-
-Advances in Digital Terrain Analysis (Lecture Notes in Geoinformation and Cartography) 2008th Edition
-
-[![]({{site.baseurl}}/uploads/img/books/9780415324625.jpg)](https://www.amazon.com/gp/reader/0415324629)
-
-Digital Terrain Modeling: Principles and Methodology
-
-[![]({{site.baseurl}}/uploads/img/books/0471321885.jpg)](https://www.amazon.com/gp/reader/0471321885)
-
-Terrain Analysis: Principles and Applications 1st Edition
-
-![]({{site.baseurl}}/uploads/img/books/9781570830822.jpg)
+<!-- The website is completely designed to support interactive exchange of information. The registered users can upload and rate articles, scripts and maps; load announcements of events and new open positions and edit their personal profiles. If you experience problems with uploading your materials or with logging in, you should contact the web-administrator. Note that, if your problem is due to an error in code or problems with the server, it might take even few days until we solve it.  -->

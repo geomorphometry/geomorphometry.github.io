@@ -13,7 +13,9 @@ show_sidebar: false
 You can have your script/software/dataset listed in this page and help the whole community! Just post your files on a repository such as [Zenodo](https://zenodo.org/) or [GitHub](github.com/), write a blog post describing your work ([see instructions here]({{site.baseurl}}/2024/03/01/how_to_make_a_blog_post/)) and contact us via e-mail or our [contact form]({{site.baseurl}}/contact) so we can update the list and have your post published. 
 
 If you choose to host your data in Zenodo, we have an open community that you can select when uploading your files:  
-- [Geomorphometry Community](https://zenodo.org/communities/geomorphometry)
+- [Geomorphometry Community](https://zenodo.org/communities/geomorphometry)  
+
+In the second edition of the book [Geomorphometry: Concepts, Software, Applications]({{site.baseurl}}/book/), there is a [whole chapter](http://dx.doi.org/10.1016/B978-0-44-333376-7.00014-8) dedicated to DEM data sources, from global to country-based, bathymetry and even planetary data. You can check these listings (and contribute to them) at the [Github repo](https://github.com/geomorphometry/geomorphometrybook/blob/main/CH04/dem_tables.md). 
 
 
 ### Open sources of elevation/topographic data:
