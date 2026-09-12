@@ -15,8 +15,6 @@
       link: /isg-council/
     - name: ISG Scientific Committee
       link: /scientific-committee/
-    - name: Selected Books
-      link: /selected_books/
     - name: Contact Us
       link: /contact/
 - name: ISG Events
@@ -24,6 +22,8 @@
   dropdown:
     - name: ISG Coffee Talks
       link: /coffee_talks/
+    - name: Geomorphometry 2027 - Doorwerth, The Netherlands
+      link: /2027/    
     - name: Geomorphometry 2025 - Perugia, Italy
       link: /2025/
     - name: Geomorphometry 2023 - Iași, Romania
@@ -69,8 +69,15 @@
   link: /book/
 - name: Awards
   link: /awards/
-- name: Code/Data
-  link: /code_data/
+- name: Resources
+  link: /#
+  dropdown:
+    - name: Code/Data
+      link: /code_data/
+    - name: Selected Books
+      link: /selected_books/
+    - name: Bibliography
+      link: /biblio/
 - name: Blog
   link: /#
   dropdown:

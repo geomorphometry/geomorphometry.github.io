@@ -2,7 +2,7 @@
 layout: page
 title: Selected Books
 permalink: /selected_books/
-hero_image: "../uploads/img/headers/header_books.jpg"
+hero_image: "../uploads/img/headers/computer-2.jpeg"
 hero_darken: true
 show_sidebar: false
 ---

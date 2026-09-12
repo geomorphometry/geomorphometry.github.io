@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "Geomorphometry: Concepts, Software, Applications (2nd Edition)"
+title: "Geomorphometry: Concepts, Software, Applications"
 permalink: /book/
-hero_image: "../uploads/img/headers/header_lanz_1200.jpeg"
+hero_image: "../uploads/img/headers/header_lanz_2400.jpg"
 hero_darken: true
 show_sidebar: false
 ---

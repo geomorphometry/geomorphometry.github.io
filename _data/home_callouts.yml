@@ -1,13 +1,13 @@
 style: is-light has-text-link
 height: is-small
 items:
-  - title: ISG Coffee Talks
+  - title: Geomorphometry Conference
     subtitle: 
-    icon: fa-solid fa-mug-saucer
+    icon: mdi mdi-presentation-play
     description: >
-      Informal and open discussions. 
-    call_to_action_name: Tell me more!
-    call_to_action_link: /coffee_talks/
+      2027 - Doorwerth, The Netherlands
+    call_to_action_name: I want to go!
+    call_to_action_link: /2027/
     
   - title: Geomorphometry Book
     subtitle: 
@@ -19,13 +19,13 @@ items:
     call_to_action_name: I want it!
     call_to_action_link: /book/
 
-  - title: Geomorphometry Conference
+  - title: ISG Coffee Talks
     subtitle: 
-    icon: mdi mdi-presentation-play
+    icon: fa-solid fa-mug-saucer
     description: >
-      A report of our last meeting
-    call_to_action_name: Take me there!
-    call_to_action_link: /2025/
+      Informal and open discussions. 
+    call_to_action_name: Tell me more!
+    call_to_action_link: /coffee_talks/
 
     # - title: Blog posts
     # subtitle: 
