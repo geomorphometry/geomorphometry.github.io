@@ -5,7 +5,7 @@ date: "2009-08-20"
 tags: [dataset, script]
 published: true
 image: false
-author: Tom Hengl
+author: Hannes I. Reuter
 ---
 
 **Short title**:  landform
@@ -15,7 +15,7 @@ Outputs: Map showing landform classes according to Pennock and Corre (2001).
 
 **Purpose and use:** 
 
-Landform Classification based on method of Pennock and Corre (2001). Classify landform units based on relief parameters provided using the topo.aml. Original Source are papers by Pennock et al., Rewritten in aml as closely as possible. Requirements: topo.aml, killgrids.aml, logoff.aml
+Landform Classification based on method of Pennock and Corre (2001). Classify landform units based on relief parameters provided using the topo.aml. Original Source are papers by Pennock et al., Rewritten in ArcINFO AML as closely as possible. Requirements: topo.aml, killgrids.aml, logoff.aml
 
 **Programming environment:**  Arc AML  
 **Status of work**:  Public Domain  
