@@ -5,10 +5,10 @@ date: "2009-08-21"
 tags: [dataset, script]
 published: true
 image: false
-author: Tom Hengl
+author: Hannes I. Reuter
 ---
 
-hort title:  TOPO.AML
+short title:  TOPO.AML
 
 Inputs: INPUTDEM - a grid representing a continuous surface.  
 Outputs: a set of geomorphometric parameters.  
@@ -16,7 +16,7 @@ Outputs: a set of geomorphometric parameters.
 
 Purpose and use: 
 
-It's a compilation of grid commands to calculate some geomorphometric parameters in one go. To avoid mistyping, different approaches between different projects, time saving, etc.   
+It's a compilation of ArcInfo GRID commands to calculate some geomorphometric parameters in one go. To avoid mistyping, different approaches between different projects, time saving, etc.   
 More description in topomanual.pdf included in file.
 
 **Programming environment**:  Arc AML  
