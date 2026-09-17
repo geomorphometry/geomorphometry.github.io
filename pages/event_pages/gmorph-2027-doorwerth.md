@@ -11,7 +11,7 @@ The next Geomorphometry Conference will take place in the beautiful city of [Doo
 
 The conference date is **31st May - 04th June, 2027**.  The venue will be the [Fletcher Hotel-Restaurant Doorwerth-Arnhem](https://www.hoteldoorwerth.nl/en/).  
 
-More information will be posted here soon! 
+The conference website from [OpenGeoHub](https://opengeohub.org/geomorphometry-conference-2027/) contains the latest information.  
 
 <img src="{{site.baseurl}}/uploads/img/meet2027/fletcher_hotel2.jpg" width="85%" />  
 
