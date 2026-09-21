@@ -10,6 +10,8 @@ show_sidebar: false
 
 The ISG Council meets multiple times per year to discuss the matters of the ISG. Meetings follow pre-established agendas and detailed notes are taken and archived. All members of the ISG can access the archives and all documentation on the functioning of the ISG upon request to the Council by email: [geomorphometry.org@gmail.com](mailto:geomorphometry.org@gmail.com).
 
+<br>
+
 #### ISG Council (2025-2027):
 
 - President: **Vincent Lecours**, Université du Québec à Chicoutimi, Canada
@@ -18,6 +20,8 @@ The ISG Council meets multiple times per year to discuss the matters of the ISG.
 - Councilor: **Massimiliano Alvioli**, CNR IRPI Perugia 
 - Councilor: **Yu-Feng Ho**, OpenGeoHub, The Netherlands
 - Councilor: **Jason Goetz**, Wilfrid Laurier University Waterloo  
+
+<br>
 
 #### ISG Council (2023-2025):
 
@@ -29,6 +33,8 @@ The ISG Council meets multiple times per year to discuss the matters of the ISG.
 - Councilor: **Massimiliano Alvioli**, CNR IRPI Perugia  
 - Councilor: **Mihai Niculita**, Faculty of Geography and Geology, Alexandru Ioan Cuza University of Iasi, Romania  
 
+<br>
+
 #### ISG Council (2021-2023):
 
 - President: **Hannes I. Reuter**, gisxperts, Germany
@@ -38,15 +44,21 @@ The ISG Council meets multiple times per year to discuss the matters of the ISG.
 - Councilor: **Cheng-Zhi Qin**, Chinese Academy of Sciences, Beijing, China
 - Councilor: **Mihai Niculita**, Faculty of Geography and Geology, Alexandru Ioan Cuza University of Iasi, Romania
 
+<br>
+
 #### Chair and Vice Chair (2015-2021):
 
 - Chair: **Peter Guth**, US Naval Academy, USA
 - Vice-chair: **Carlos H. Grohmann**, University of São Paulo, Brazil
 
+<br>
+
 #### Chair and Vice Chair (2011-2015):
 
 - Chair: **Helena Mitasova**, North Carolina State University
 - Vice-chair: **Tomislav Hengl**, ISRIC / Wageningen University, the Netherlands
+
+<br>
 
 #### Chair and Vice Chair (2009-2011):
 

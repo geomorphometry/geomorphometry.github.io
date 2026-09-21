@@ -51,7 +51,7 @@ Email: [lifayuan@njnu.edu.cn](mailto:lifayuan@njnu.edu.cn?subject=Geomorphometry
 10. **Robert A. MacMillan**, ISRIC, the Netherlands
 11. **Li Manchun**, Nanjing University, China
 12. **Jozef Minár**, Comenious University, Slovakia
-13. **Helena Mitasova****,** North Carolina State University, USA
+13. **Helena Mitasova**, North Carolina State University, USA
 14. **Brian Lees**, University of New South Wales, Australia
 15. **Wu Lun**, Peking University, China
 16. **Takashi Oguchi**, University of Tokyo, Japan
@@ -61,7 +61,7 @@ Email: [lifayuan@njnu.edu.cn](mailto:lifayuan@njnu.edu.cn?subject=Geomorphometry
 20. **Thomas Stepinski**, Lunar and Planetary Institute, USA
 21. **Lynn Usery**, USGS Center for Excellence for GIS, USA
 22. **John P. Wilson**, University of Southern California, USA
-23. **Liu Xuejun,** Nanjing Normal University, China
+23. **Liu Xuejun**, Nanjing Normal University, China
 24. **Chenghu Zhou**, Institute of Geographical Sciences and Natural Resources, CAS, China
 25. **Qiming Zhou**, Hong Kong Baptist University, Hong Kong
 26. **A-Xing Zhu**, Nanjing Normal University

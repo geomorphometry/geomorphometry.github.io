@@ -42,7 +42,7 @@ _This event was sponsored by_:
 
 1. **Alexander Brenning**, University of Waterloo, Canada
 2. **Lucian Dragut**, University of Salzburg, Austria
-3. **Ian Evans,** Durham University, UK
+3. **Ian Evans**, Durham University, UK
 4. **Igor V. Florinsky**, Institute of Mathematical Problems of Biology, Russia
 5. **John Gallant**, CSIRO, Australia
 6. **Carlos H. Grohmann**, University of Sao Paulo, Brazil

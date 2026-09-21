@@ -67,7 +67,7 @@ ISBN 978 88 8080 410 9 (updated version)
 - Mihai Niculita - University Al. I. Cuza
 - Peter L. Guth - US Naval Academy
 - Qiming Zhou - Hong Kong Baptist University
-- Qin Cheng-Zhi C- hinese Academy of Sciences
+- Qin Cheng-Zhi - Chinese Academy of Sciences
 - Robert A. MacMillan - LandMapper Environmental Solutions Inc.
 - Samantha Arundel - USGS
 - Scott D. Peckham - University of Colorado
