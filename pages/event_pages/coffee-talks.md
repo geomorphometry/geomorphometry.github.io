@@ -22,6 +22,7 @@ Proposals for topics can be sent anytime to the Email [geomorphometry.org@gmail.
 
 **Schedule**  
 
+|2026-10-07 | Dr. Qiusheng Wu - University of Tennessee, USA <br> [LiDAR and Terrain Analysis in the Browser with GeoLibre][pdf_quishengwu] <br> Recording available in our [YouTube channel][video_quishengwu]|
 |2026-09-02 | Paul Mead - GeoNadir <br> [Building the world's largest repository of FAIR drone mapping data][pdf_paulmead] <br> Recording available in our [YouTube channel][video_paulmead]|
 |2026-04-01 | Dr. Corey White - Center for Geospatial Analytics at NCSU <br> [Geomorphometry in GRASS][pdf_coreywhite] <br> Recording available in our [YouTube channel][video_coreywhite]|
 |2026-01-20 | Dr. Chris Lucas - Fathom, UK <br> [FathomDEM, a new global 30 m DTM][pdf_chrislucas] <br> Recording available in our [YouTube channel][video_chrislucas]|
@@ -36,6 +37,8 @@ Proposals for topics can be sent anytime to the Email [geomorphometry.org@gmail.
 |2022-12-07 | Prof. John Lindsay - University of Guelph <br> [WhiteBox for Geomorphometry][pdf_johnlindsay] <br> Recording available in our [YouTube channel][video_johnlindsay] |
 |2022-10-05 | Dr. Laurence Hawker - University of Bristol <br> [How fab is FABDEM?][pdf_laurence] <br> Recording available in our [YouTube channel][video_laurence] |
 
+
+[pdf_quishengwu]: <{{site.baseurl}}/uploads/pdf/gct/CoffeeTalk_QuishengWu_Oct.07.2025.pdf>
 [pdf_paulmead]: <{{site.baseurl}}/uploads/pdf/gct/CoffeeTalk_PaulMead_Sept.2.2026.pdf>
 [pdf_coreywhite]: <{{site.baseurl}}/uploads/pdf/gct/CoffeeTalk_CoreyWhite_Apr.01.2026.pdf>
 [pdf_chrislucas]: <{{site.baseurl}}/uploads/pdf/gct/CoffeeTalk_ChrisLucas_Jan.20.2026.pdf>
@@ -51,6 +54,7 @@ Proposals for topics can be sent anytime to the Email [geomorphometry.org@gmail.
 [pdf_laurence]: <{{site.baseurl}}/uploads/pdf/gct/CoffeeTalk_LaurenceHawker_05.10.2022.pdf>
 
 [video_willlbeavailable]: <https://www.youtube.com/@geomorphometry>
+[video_quishengwu]: <https://youtu.be/OWues5IJ6cw>
 [video_paulmead]: <https://youtu.be/emBXQNsy1lE>
 [video_coreywhite]: <https://youtu.be/4la_zOc6OG8>
 [video_chrislucas]: <https://youtu.be/styhRiQdRPo>

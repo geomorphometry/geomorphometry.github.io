@@ -11,6 +11,33 @@ The Scientific Committee is composed of members of the ISG invited to assist the
 
 <br>
 
+
+#### Scientific committee 2027-2029:
+
+- **Alexander Brenning** - Friedrich Schiller University, Germany
+- **Camila Viana** - Universidade de São Paulo, Brazil
+- **Carlos Grohmann** - Universidade de São Paulo, Brazil
+- **Carlos López-Vázquez** - Universidad ORT Uruguay, Uruguay
+- **Giuseppe Amatulli** - Yale School of the Environment, United States
+- **Hannes Reuter** - gisxperts, Germany
+- **Jarosław Jasiewicz** - Adam Mickiewicz University, Poland
+- **Jason Goetz** - Wilfrid Laurier University, Canada
+- **John Lindsay** - University of Guelph, Canada
+- **Jozef Minár** - Comenius University in Bratislava, Slovak Republic
+- **Laurence Hawker** - University of Bristol, United Kingdom
+- **Liyang Xiong** - Nanjing Normal University, China
+- **Lucian Drăguț** - West University of Timișoara, Romania
+- **Massimiliano Alvioli** - CNR-GEO, Italy
+- **Nawajish Noman** - Esri, United States
+- **Peter Guth** - US Naval Academy, United States
+- **Qin Cheng-Zhi** - Chinese Academy of Sciences, China
+- **Richard Feciskanin** - Comenius University in Bratislava, Slovak Republic
+- **Sebastiano Trevisani** - IUAV University of Venice, Italy
+- **Steve Kopp** - Esri, United States
+- **Vincent Lecours** - Université du Québec à Chicoutimi, Canada
+
+<br>
+
 #### Scientific committee 2025-2027:
 
 - **A-Xing Zhu** - University of Wisconsin, USA
